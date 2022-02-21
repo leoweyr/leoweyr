@@ -77,7 +77,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 NoN, is there any rich human high quality females adpoted me? 
-Ahh... The secret of success: <code>🎻Jazz-Hip-Pop</code> & <code>🥤Milk-tea</code>
+Ahh... The secret of success: <code>🎻Jazz-Hip-pop</code> & <code>🥤Milk-tea</code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- orgainization:end -->
