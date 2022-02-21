@@ -1,4 +1,4 @@
-### Hi, I'm l~e~o~w~e~y~r~:wave:
+### Hi, I'm leoweyr:wave:
 
 🌱 I'm not talent in coding, but be better in design  
 ⚡ I'm a anti-anti-metaverse un-upon-eye antlike-explorer  
@@ -71,7 +71,6 @@
 <!-- interested:end -->
 
 #### 💼ORGANIZATIONS
-
 <!-- organization:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
