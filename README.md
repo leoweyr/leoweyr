@@ -1,4 +1,4 @@
-### Hi, I'm leoweyr:wave:
+### Hi, I'm leoweyr~:wave:
 
 🌱 I'm not talent in coding, but be better in design  
 ⚡ I'm a anti-anti-metaverse un-upon-eye antlike-explorer  
@@ -9,7 +9,6 @@
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoweyr&layout=compact)]()-->
 
 #### :computer:PROGRAMMING
-
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -25,15 +24,12 @@
 <!-- languages:end -->
 
 #### 📝MAKEUP
-
 <!-- makeup:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="json" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-
 <!-- markdownlint-restore -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
