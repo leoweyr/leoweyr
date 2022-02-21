@@ -8,7 +8,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoweyr&layout=compact)]()-->
 
-#### :computer:PROGRAMMING
+#### :computer:PROGRAMMINGS
 
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
@@ -24,7 +24,7 @@
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
 
-#### 📝MAKEUP
+#### 📝MAKEUPS
 
 <!-- makeup:start -->
 <!-- prettier-ignore-start -->
@@ -38,7 +38,6 @@
 <!-- makeup:end -->
 
 #### 🔧TOOLS
-
 <!-- tool:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -48,7 +47,7 @@
 <!-- prettier-ignore-end -->
 <!-- tool:end -->
 
-#### 🎯TAG
+#### 🎯TAGS
 
 <!-- tag:start -->
 <!-- prettier-ignore-start -->
@@ -72,7 +71,6 @@
 <!-- interested:end -->
 
 #### 💼ORGANIZATIONS
-
 <!-- organization:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
