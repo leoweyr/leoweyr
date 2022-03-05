@@ -6,7 +6,8 @@
 :earth_asia: I come from Odyssey Universe(`🕗 GMT/UTC+8`?)  
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leoweyr&layout=compact)]()-->
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true">
+
 
 #### :computer:PROGRAMMINGS
 
