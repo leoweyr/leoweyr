@@ -1,4 +1,4 @@
-### Hi, I'm leoweyr~:wave:
+### It's me, leoweyr~:wave:
 
 🌱 I'm not talent in coding, but be better in design  
 ⚡ I'm a anti-anti-metaverse un-upon-eye antlike-explorer  
