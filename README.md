@@ -1,13 +1,12 @@
 ### It's me, leoweyr~:wave:
 
-🌱 I'm not talent in coding, but be better in design  
-⚡ I'm a anti-anti-metaverse un-upon-eye antlike-explorer  
-💬 My 99.9% projects is closed sourse, also I have completed ${1 + 1 - 2}  projects  
-:earth_asia: I come from Odyssey Universe(`🕗 GMT/UTC+8`?)  
+🌱 I'm not talent in coding, but be better in design.  
+⚡ I'm a anti-anti-metaverse un-upon-eye antlike-explorer.  
+💬 Is focusing on participating in the development codenamed `OdysseyWorld`, of course his core part is closed source.  
+:earth_asia: I come from *Imagined Colorful 🔴🔵🟢🟡 Paper-made Universe*.
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true">
-
 
 #### :computer:PROGRAMMINGS
 
@@ -77,6 +76,8 @@
 <!-- organization:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+Founder of a P-o-p-F-u-n-n-y-C-l-u-b? [ODCLAB](https://github.com/ODCLAB)?
+
 NoN, is there any rich human high quality females adpoted me? 
 Ahh... The secret of success: <code>🎻Jazz-Hip-pop</code> & <code>🥤Milk-tea</code>
 <!-- markdownlint-restore -->
