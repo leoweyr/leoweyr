@@ -1,53 +1,13 @@
 ### It's me, leoweyr~:wave:
 
-🌱 I'm not talent in coding, but be better in design.  
+🌱 I pefer design, combination of technology and art.  
 ⚡ I'm a anti-anti-metaverse un-upon-eye antlike-explorer.  
-💬 Is focusing on participating in the development codenamed `OdysseyWorld`, of course his core part is closed source.  
 :earth_asia: I come from *Imagined Colorful 🔴🔵🟢🟡 Paper-made Universe*.
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html">
 
-#### :computer:PROGRAMMINGS
 
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" /></code>
-<!-- markdownlint-restore -->
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- languages:end -->
-
-#### 📝MAKEUPS
-
-<!-- makeup:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="json" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="markdown" /></code>
-<!-- markdownlint-restore -->
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- makeup:end -->
-
-#### 🔧TOOLS
-<!-- tool:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jquery" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- tool:end -->
 
 #### 🎯TAGS
 
@@ -61,18 +21,22 @@
 <!-- prettier-ignore-end -->
 <!-- tag:end -->
 
-#### :video_game:GAMES
+#### :trident:TENDS
 
-<!-- interested:start -->
+<!-- tend:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><img height="20" src="assets/img/minecraft.net.ico" alt="minecraft" /></code>
-<code><img height="20" src="assets/img/nintendo_switch.png" alt="nintendo_switch" />&nbsp;NINTENDO IS THE FUCKIN' RULER OF THE WORLD!!!</code>
+
+<code><img height="20" src="assets/img/liunx.png" alt="open_source" /></code>
+
+<code><img height="20" src="assets/img/nintendo.png" alt="nintendo" />&nbsp;NINTENDO IS THE FUCKIN' RULER OF THE WORLD!!!</code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-<!-- interested:end -->
+<!-- tend:end -->
 
 #### 💼ORGANIZATIONS
+
 <!-- organization:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
