@@ -5,7 +5,7 @@
 :earth_asia: I come from *Imagined Colorful 🔴🔵🟢🟡 Paper-made Universe*.
 
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
-<img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html">
+<img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
 
 
