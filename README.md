@@ -1,4 +1,4 @@
-### It's me, leoweyr~:wave:
+### It's me, leoweyr~ :wave:
 
 🌱 I prefer design, combination of technology and art.  
 ⚡ I'm a Unreal World foundation bricklayer.  
@@ -9,33 +9,37 @@
 
 
 
-#### 🎯TAGS
+#### 🎯 TAGS
 
 <!-- tag:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code>Web</code>
+<code>Backend</code>
 <code>GameDesign</code>
-<code>UX|UI</code>
+<code>UI|UX</code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tag:end -->
 
-#### :trident:TENDS
+#### :trident: TENDS
 
 <!-- tend:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><img height="20" src="assets/img/minecraft.net.ico" alt="minecraft" /></code>
 
-<code><img height="20" src="assets/img/liunx.png" alt="open_source" /></code>
+<code><img height="20" src="assets/img/java.png" alt="pure_object-oriented" /></code>
+
+<code><img height="20" src="assets/img/amazon-web-services.png" alt="amazon_web_services" /></code>
+
+<code><img height="20" src="assets/img/apple.png" alt="apple" /></code>
 
 <code><img height="20" src="assets/img/nintendo.png" alt="nintendo" />&nbsp;NINTENDO IS THE FUCKIN' RULER OF THE WORLD!!!</code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- tend:end -->
 
-#### 💼ORGANIZATIONS
+#### 💼 ORGANIZATIONS
 
 <!-- organization:start -->
 <!-- prettier-ignore-start -->
@@ -43,7 +47,7 @@
 Founder of a P-o-p-F-u-n-n-y-C-l-u-b? [ODCLAB](https://github.com/ODCLAB)?
 
 Hmm, music is the key motivator that drives me to be a perpetual flow machine.
-Ahh... The secret of success: <code>🎻Jazz-Hip-pop</code> & <code>🥤Milk-tea</code>
+Ahh... The secret of success: <code>👻R&B</code> & <code>🥤Milk-tea</code>.
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- orgainization:end -->
