@@ -33,7 +33,7 @@ jobs:
                   "title": "### ⚡ Features",
                   "limit_count": 3,
                   "include_commits": true,
-                  "repository_topic_contains_any" : "plugin,script,minecraft"
+                  "repository_topic_contains_any" : "plugin,script,minecraft,github"
                 }
               },
               {
