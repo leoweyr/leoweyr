@@ -1,6 +1,6 @@
 <!-- SUPPORT_INFO -->
 
-F## 🚀 Contribution
+## 🚀 Contribution
 
 <!-- CONTRIBUTION_FEATURES -->
 
