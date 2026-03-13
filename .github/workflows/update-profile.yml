@@ -24,6 +24,51 @@ jobs:
                 "anchor": "<!-- SUPPORT_INFO -->",
                 "endpoint": "/v1/support/markdown",
                 "params": {}
+              },
+              {
+                "anchor": "<!-- CONTRIBUTION_FEATURES -->",
+                "endpoint": "/v1/contributed-repositories/markdown",
+                "params": {
+                  "username": "leoweyr",
+                  "title": "### ⚡ Features",
+                  "limit_count": 3,
+                  "include_commits": true,
+                  "repository_topic_contains_any" : "plugin,script,minecraft"
+                }
+              },
+              {
+                "anchor": "<!-- CONTRIBUTION_PRODUCT -->",
+                "endpoint": "/v1/contributed-repositories/markdown",
+                "params": {
+                  "username": "leoweyr",
+                  "title": "### 📦️ Product",
+                  "limit_count": 3,
+                  "include_commits": true,
+                  "repository_topic_contains_any" : "visual-editor,personal-website"
+                }
+              },
+              {
+                "anchor": "<!-- CONTRIBUTION_WHEEL -->",
+                "endpoint": "/v1/contributed-repositories/markdown",
+                "params": {
+                  "username": "leoweyr",
+                  "title": "### ⚙️ Wheel",
+            `     "limit_count": 3,
+                  "include_commits": true,
+                  "repository_name_contains_any": "react,engine,nodejs,python",
+                  "repository_topic_contains_any" : "scaffold,framework"
+                }
+              },
+              {
+                "anchor": "<!-- CONTRIBUTION_SPECIFICATION -->",
+                "endpoint": "/v1/contributed-repositories/markdown",
+                "params": {
+                  "username": "leoweyr",
+                  "title": "### 📜 Specification",
+                  "limit_count": 3,
+                  "include_commits": true,
+                  "repository_name_contains_any": "spec"
+                }
               }
             ]
 
