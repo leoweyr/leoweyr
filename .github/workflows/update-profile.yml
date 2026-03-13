@@ -53,7 +53,7 @@ jobs:
                 "params": {
                   "username": "leoweyr",
                   "title": "### ⚙️ Wheel",
-            `     "limit_count": 3,
+                  "limit_count": 3,
                   "include_commits": true,
                   "repository_name_contains_any": "react,engine,nodejs,python",
                   "repository_topic_contains_any" : "scaffold,framework"
