@@ -31,7 +31,7 @@ jobs:
                 "params": {
                   "username": "leoweyr",
                   "title": "### ⚡ Features",
-                  "show_recent_activity_stats": 168,
+                  "adaptive_show_recent_activity_stats": true,
                   "limit_count": 3,
                   "include_commits": true,
                   "include_issues": true,
@@ -45,7 +45,7 @@ jobs:
                 "params": {
                   "username": "leoweyr",
                   "title": "### 📦️ Product",
-                  "show_recent_activity_stats": 168,
+                  "adaptive_show_recent_activity_stats": true,
                   "limit_count": 3,
                   "include_commits": true,
                   "include_issues": true,
@@ -59,7 +59,7 @@ jobs:
                 "params": {
                   "username": "leoweyr",
                   "title": "### ⚙️ Wheel",
-                  "show_recent_activity_stats": 168,
+                  "adaptive_show_recent_activity_stats": true,
                   "limit_count": 3,
                   "include_commits": true,
                   "include_issues": true,
@@ -74,7 +74,7 @@ jobs:
                 "params": {
                   "username": "leoweyr",
                   "title": "### 📜 Specification",
-                  "show_recent_activity_stats": 168,
+                  "adaptive_show_recent_activity_stats": true,
                   "limit_count": 3,
                   "include_commits": true,
                   "include_issues": true,
