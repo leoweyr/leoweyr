@@ -31,8 +31,11 @@ jobs:
                 "params": {
                   "username": "leoweyr",
                   "title": "### ⚡ Features",
+                  "show_recent_activity_stats": 168,
                   "limit_count": 3,
                   "include_commits": true,
+                  "include_issues": true,
+                  "include_pull_requests": true,
                   "repository_topic_contains_any" : "plugin,script,minecraft,github"
                 }
               },
@@ -42,8 +45,11 @@ jobs:
                 "params": {
                   "username": "leoweyr",
                   "title": "### 📦️ Product",
+                  "show_recent_activity_stats": 168,
                   "limit_count": 3,
                   "include_commits": true,
+                  "include_issues": true,
+                  "include_pull_requests": true,
                   "repository_topic_contains_any" : "visual-editor,personal-website"
                 }
               },
@@ -53,8 +59,11 @@ jobs:
                 "params": {
                   "username": "leoweyr",
                   "title": "### ⚙️ Wheel",
+                  "show_recent_activity_stats": 168,
                   "limit_count": 3,
                   "include_commits": true,
+                  "include_issues": true,
+                  "include_pull_requests": true,
                   "repository_name_contains_any": "react,engine,nodejs,python",
                   "repository_topic_contains_any" : "scaffold,framework"
                 }
@@ -65,8 +74,11 @@ jobs:
                 "params": {
                   "username": "leoweyr",
                   "title": "### 📜 Specification",
+                  "show_recent_activity_stats": 168,
                   "limit_count": 3,
                   "include_commits": true,
+                  "include_issues": true,
+                  "include_pull_requests": true,
                   "repository_name_contains_any": "spec"
                 }
               }
