@@ -1,6 +1,9 @@
 name: Update Profile
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '47 21 * * *'
   workflow_dispatch:
@@ -24,6 +27,17 @@ jobs:
                 "anchor": "<!-- SUPPORT_INFO -->",
                 "endpoint": "/v1/support/markdown",
                 "params": {}
+              },
+              {
+                "anchor": "<!-- TREND_TOPICS -->",
+                "endpoint": "/v1/trend-topics/markdown",
+                "params": {
+                  "username": "leoweyr",
+                  "time_limit_hours": 720,
+                  "highlight_threshold_percentage": 0.2,
+                  "limit_count": 20,
+                  "include_private": true
+                }
               },
               {
                 "anchor": "<!-- CONTRIBUTION_FEATURES -->",
