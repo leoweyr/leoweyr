@@ -35,7 +35,7 @@ jobs:
                   "username": "leoweyr",
                   "time_limit_hours": 720,
                   "highlight_threshold_percentage": 0.2,
-                  "limit_count": 20,
+                  "limit_count": 40,
                   "include_private": true
                 }
               },
