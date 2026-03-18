@@ -21,6 +21,7 @@ jobs:
         with:
           github_token: ${{ secrets.APP_GITHUB_TOKEN }}
           readme_template_path: 'template/README.template.md'
+          sort_latest_activity_blocks: true
           tasks: |
             [
               {
