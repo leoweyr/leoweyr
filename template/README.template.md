@@ -1,5 +1,7 @@
 <!-- SUPPORT_INFO -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=leoweyr&label=Views&color=blue)
+
 ## 🔱 Trend
 
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
