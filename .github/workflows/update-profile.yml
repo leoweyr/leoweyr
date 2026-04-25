@@ -87,7 +87,7 @@ jobs:
                   "include_issues": true,
                   "include_pull_requests": true,
                   "repository_name_contains_any": "react,engine,nodejs,python,template,genesis",
-                  "repository_topic_contains_any" : "scaffold,framework,ui-framework,module"
+                  "repository_topic_contains_any" : "scaffold,framework,ui-framework,module,golang"
                 }
               },
               {
