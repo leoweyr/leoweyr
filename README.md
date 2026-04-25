@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-04-24 22:28 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-04-25 10:16 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,37 +17,22 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>gitops</code> <code>automation</code> <code>postgresql</code> <code>architecture-as-code</code> <code>react</code> <code>devops</code> <code>ui-injection</code> <code>edge-proxy</code> <code>portfolio-wrapper</code> <code>zero-config-ui</code> <code>micro-frontend</code> <code>project-gallery</code> <code>cloudflare-workers</code> <code>brand-identity</code> <code>htmlrewriter</code> <code>api-gateway</code> <code>collision-detection</code> <code>barycenter-algorithm</code> <code>graph-theory</code> <code>visual-editor</code> <code>ssr</code> <code>interactive-graph</code> <code>visual-programming</code> <code>infinite-canvas</code> <code>edge-crossing-minimization</code> <code>bidirectional-sync</code> <code>trb-spec</code> <code>topology-graph</code> <code>diagramming-tool</code> <code>low-code</code> <code>infrastructure-as-code</code> <code>docker</code> <code>github-actions</code> <code>vendor</code> <code>shell</code> <code>ansible</code> <code>apache-apisix</code> <code>cybernetics</code> <code>server-management</code> <code>bootstrap</code>
+<code>gitops</code> <code>automation</code> <code>postgresql</code> <code>api-gateway</code> <code>devops</code> <code>react</code> <code>architecture-as-code</code> <code>portfolio-wrapper</code> <code>project-gallery</code> <code>brand-identity</code> <code>edge-proxy</code> <code>htmlrewriter</code> <code>ui-injection</code> <code>zero-config-ui</code> <code>micro-frontend</code> <code>cloudflare-workers</code> <code>docker</code> <code>infrastructure-as-code</code> <code>collision-detection</code> <code>ssr</code> <code>visual-programming</code> <code>low-code</code> <code>interactive-graph</code> <code>graph-theory</code> <code>diagramming-tool</code> <code>edge-crossing-minimization</code> <code>infinite-canvas</code> <code>bidirectional-sync</code> <code>visual-editor</code> <code>topology-graph</code> <code>barycenter-algorithm</code> <code>trb-spec</code> <code>github-actions</code> <code>apache-apisix</code> <code>bootstrap</code> <code>server-management</code> <code>shell</code> <code>taskfile</code> <code>vendor</code> <code>ansible</code>
 
 ## 🚀 Contribution
 
-<!-- LATEST_ACTIVITY: 2026-04-24T11:39:43Z -->
-### ⚡ Features
-
-- **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
-
-  📈 **Past Day:** 5 Commits
-
-- **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
-
-  📈 **Past Week:** 1 Commits
-
-  🐛 **Latest:** [fix(prepare-release): filter for `v*` tags in release workflow](https://github.com/leoweyr/github-release-workflow/commit/9cf4a099c38eef14c1fbcbd61f3d023bf6ad2493) (1 day ago)
-
-- **[github-profile-readme-postprocessor](https://github.com/leoweyr/github-profile-readme-postprocessor)** `Owned` — A tool that leverages GitHub's built-in features to automatically update your GitHub profile readme file based on your situation and display needs, making the resume of your open-source journey on GitHub more direct, pure, and clear.
-
-  📈 **Past Week:** 1 Commits
-
-  🐛 **Latest:** [fix: remove duplicate startup log from main entrypoint](https://github.com/leoweyr/github-profile-readme-postprocessor/commit/f045bda93a364b73994e0e1efdf8ce17307a012c) (5 days ago)
-
-<!-- LATEST_ACTIVITY_END -->
-
-<!-- LATEST_ACTIVITY: 2026-04-23T06:56:24Z -->
+<!-- LATEST_ACTIVITY: 2026-04-25T10:10:37Z -->
 ### ⚙️ Wheel
+
+- **[go-http-request-validation-error-response](https://github.com/leoweyr/go-http-request-validation-error-response)** `Owned` — Automatically transform go-playground/validator errors into structured, integration-ready JSON.
+
+  📈 **Past Day:** 1 Commits
+
+  📌 **Latest:** [Initial commit](https://github.com/leoweyr/go-http-request-validation-error-response/commit/bf86913875e113a5387c5405399b84ca10c6217f) (7 minutes ago)
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Week:** 24 Commits
+  📈 **Past Week:** 19 Commits
 
 - **[todo-requirement-blueprint-template](https://github.com/leoweyr/todo-requirement-blueprint-template)** `Owned` — This is a template repository for creating TODO Requirement Blueprint (TRB) project.
 
@@ -55,20 +40,14 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
   🤖 **Latest:** [ci: add release workflows](https://github.com/leoweyr/todo-requirement-blueprint-template/commit/8dbca964d905ebc3523197d2e254bfb0993b6a4e) (2 weeks ago)
 
-- **[todo-requirement-blueprint-engine](https://github.com/leoweyr/todo-requirement-blueprint-engine)** `Owned` — A TODO Requirement Blueprint (TRB) engine with a domain object pool and built-in serialization / deserialization.
-
-  📈 **Past Month:** 6 Commits
-
-  🤖 **Latest:** [ci(publish-release): support bump TRB project node version](https://github.com/leoweyr/todo-requirement-blueprint-engine/commit/9a80ab2537b53fa6f1b13b44755f724245a2d29e) (2 weeks ago)
-
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-04-19T14:15:38Z -->
+<!-- LATEST_ACTIVITY: 2026-04-25T09:16:54Z -->
 ### 📦️ Product
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  📈 **Past Week:** 6 Commits
+  📈 **Past Day:** 3 Commits
 
 - **[todo-requirement-blueprint-painter](https://github.com/leoweyr/todo-requirement-blueprint-painter)** `Owned` — A bidirectional visual editor for TODO Requirement Blueprints. Render YAML into interactive graphs, mutate architecture visually, and sync back to code.
 
@@ -84,6 +63,27 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 <!-- LATEST_ACTIVITY_END -->
 
+<!-- LATEST_ACTIVITY: 2026-04-25T06:14:25Z -->
+### ⚡ Features
+
+- **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
+
+  📈 **Past Day:** 3 Commits
+
+- **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
+
+  📈 **Past Week:** 1 Commits
+
+  🐛 **Latest:** [fix(prepare-release): filter for `v*` tags in release workflow](https://github.com/leoweyr/github-release-workflow/commit/9cf4a099c38eef14c1fbcbd61f3d023bf6ad2493) (2 days ago)
+
+- **[github-profile-readme-postprocessor](https://github.com/leoweyr/github-profile-readme-postprocessor)** `Owned` — A tool that leverages GitHub's built-in features to automatically update your GitHub profile readme file based on your situation and display needs, making the resume of your open-source journey on GitHub more direct, pure, and clear.
+
+  📈 **Past Week:** 1 Commits
+
+  🐛 **Latest:** [fix: remove duplicate startup log from main entrypoint](https://github.com/leoweyr/github-profile-readme-postprocessor/commit/f045bda93a364b73994e0e1efdf8ce17307a012c) (6 days ago)
+
+<!-- LATEST_ACTIVITY_END -->
+
 <!-- LATEST_ACTIVITY: 2026-04-04T06:38:39Z -->
 ### 📜 Specification
 
@@ -91,6 +91,6 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
   📈 **Past Month:** 2 Commits
 
-  📝 **Latest:** [docs: introduce @todo-requirement-blueprint/engine](https://github.com/leoweyr/todo-requirement-blueprint-spec/commit/547f1462cb63783c3d6d5797f9555818638591bc) (2 weeks ago)
+  📝 **Latest:** [docs: introduce @todo-requirement-blueprint/engine](https://github.com/leoweyr/todo-requirement-blueprint-spec/commit/547f1462cb63783c3d6d5797f9555818638591bc) (3 weeks ago)
 
 <!-- LATEST_ACTIVITY_END -->
