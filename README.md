@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-05-09 22:27 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-05-10 22:30 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,47 +17,49 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>api-gateway</code> <code>ui-framework</code> <code>workspace</code> <code>react</code> <code>stateless</code> <code>draggable</code> <code>layout</code> <code>split-pane</code> <code>ide</code> <code>jetbrains-ui</code> <code>postgresql</code> <code>automation</code> <code>infrastructure-as-code</code> <code>docker</code> <code>gitops</code> <code>devops</code> <code>apache-apisix</code> <code>vendor</code> <code>taskfile</code> <code>server-management</code> <code>shell</code> <code>bootstrap</code> <code>ansible</code> <code>cybernetics</code> <code>wsl</code> <code>atlas</code> <code>cloud-native</code> <code>zero-trust</code> <code>crm</code> <code>shadow-profiles</code> <code>user-profiling</code> <code>behavioral-tracking</code> <code>iam</code> <code>event-driven</code> <code>serverless-triggers</code> <code>cdc</code> <code>webhook</code> <code>outbox-pattern</code> <code>sidercar</code> <code>github-actions</code>
+<code>jetbrains-ui</code> <code>draggable</code> <code>workspace</code> <code>ide</code> <code>stateless</code> <code>layout</code> <code>ui-framework</code> <code>split-pane</code> <code>react</code> <code>api-gateway</code> <code>postgresql</code> <code>automation</code> <code>infrastructure-as-code</code> <code>docker</code> <code>gitops</code> <code>devops</code> <code>apache-apisix</code> <code>wsl</code> <code>server-management</code> <code>taskfile</code> <code>vendor</code> <code>ansible</code> <code>cybernetics</code> <code>shell</code> <code>bootstrap</code> <code>atlas</code> <code>golang</code> <code>cloud-native</code> <code>zero-trust</code> <code>iam</code> <code>user-profiling</code> <code>behavioral-tracking</code> <code>shadow-profiles</code> <code>crm</code> <code>serverless</code> <code>vanity-url</code> <code>devops-tools</code> <code>go-modules</code> <code>vanity-imports</code> <code>go-get</code>
 
 ## 🚀 Contribution
 
-<!-- LATEST_ACTIVITY: 2026-05-09T16:12:51Z -->
+<!-- LATEST_ACTIVITY: 2026-05-10T15:52:55Z -->
 ### ⚙️ Wheel
 
 - **[react-ide-workspace-layout](https://github.com/leoweyr/react-ide-workspace-layout)** `Owned` — A powerful React framework for building JetBrains IDEA-like draggable, dockable, and stateless workspaces.
 
-  📈 **Past Day:** 1 Commits
+  📈 **Past Day:** 5 Commits
 
-  ✨ **Latest:** [feat(global-sidebars): implement icon button reordering via drag-and-drop in global sidebar](https://github.com/leoweyr/react-ide-workspace-layout/commit/8f72a8506ceec9639749dd7dda9213ecb36175a7) (6 hours ago)
+  ♻️ **Latest:** [refactor(functional-atoms): consolidate tab](https://github.com/leoweyr/react-ide-workspace-layout/commit/b25af61f15b833803340bf2ff72f92245ee31950) (6 hours ago)
 
-- **[go-http-request-validation-error-response](https://github.com/leoweyr/go-http-request-validation-error-response)** `Owned` — Automatically transform go-playground/validator errors into structured, integration-ready JSON.
+- **[go-vanity-imports-worker](https://github.com/leoweyr/go-vanity-imports-worker)** `Owned` — A Cloudflare Worker for seamless vanity import redirection, level up your Go modules with custom domains.
 
-  📈 **Past Day:** 1 Commits
+  📈 **Past Day:** 7 Commits
 
-  📝 **Latest:** [docs: add standardized error response schema](https://github.com/leoweyr/go-http-request-validation-error-response/commit/9dcbc8284c39537bb620a9d8ee984cb50d49ec32) (6 hours ago)
+  🤖 **Latest:** [ci: correct wrangler-action vars syntax for environment injection](https://github.com/leoweyr/go-vanity-imports-worker/commit/56669af702a8b272bb019f101e39eb1b69e3bb05) (8 hours ago)
 
-- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
+- **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Automatically handle strict request decoding, transparent validation with JSON-tag reflection, and standardized JSON responses.
 
-  📈 **Past Week:** 6 Commits
+  📈 **Past Day:** 4 Commits
+
+  📌 **Latest:** [build: align module path with semantic version v2](https://github.com/leoweyr/go-http-api-contract-io/commit/f52ee16a8f1ddafe72733f42aeb62a4895ed0b06) (12 hours ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-05-09T13:46:47Z -->
+<!-- LATEST_ACTIVITY: 2026-05-10T09:13:23Z -->
 ### 📦️ Product
+
+- **[todo-requirement-blueprint-painter](https://github.com/leoweyr/todo-requirement-blueprint-painter)** `Owned` — A bidirectional visual editor for TODO Requirement Blueprints. Render YAML into interactive graphs, mutate architecture visually, and sync back to code.
+
+  📈 **Past Day:** 1 Commits
+
+  ✨ **Latest:** [feat(graph): enhance node description transitions](https://github.com/leoweyr/todo-requirement-blueprint-painter/commit/924946e957010d666307258bfc038c1b7129655a) (13 hours ago)
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  📈 **Past Day:** 1 Commits
+  📈 **Past Week:** 2 Commits
 
 - **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
   📈 **Past Week:** 1 Commits
-
-- **[todo-requirement-blueprint-painter](https://github.com/leoweyr/todo-requirement-blueprint-painter)** `Owned` — A bidirectional visual editor for TODO Requirement Blueprints. Render YAML into interactive graphs, mutate architecture visually, and sync back to code.
-
-  📈 **Past Year:** 166 Commits
-
-  ✨ **Latest:** [feat(index): add specification and demo menu metadata](https://github.com/leoweyr/todo-requirement-blueprint-painter/commit/df758b50b942a2aca8bf0be1bb289c1a927e0998) (1 month ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
@@ -66,7 +68,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
-  📈 **Past Month:** 22 Commits
+  📈 **Past Month:** 21 Commits
 
 - **[github-profile-readme-postprocessor](https://github.com/leoweyr/github-profile-readme-postprocessor)** `Owned` — A tool that leverages GitHub's built-in features to automatically update your GitHub profile readme file based on your situation and display needs, making the resume of your open-source journey on GitHub more direct, pure, and clear.
 
