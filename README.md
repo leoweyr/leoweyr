@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-05-11 10:59 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-05-11 11:23 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,9 +17,30 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>workspace</code> <code>layout</code> <code>draggable</code> <code>split-pane</code> <code>react</code> <code>ide</code> <code>ui-framework</code> <code>stateless</code> <code>jetbrains-ui</code> <code>api-gateway</code> <code>postgresql</code> <code>automation</code> <code>infrastructure-as-code</code> <code>docker</code> <code>gitops</code> <code>devops</code> <code>apache-apisix</code> <code>vendor</code> <code>wsl</code> <code>ansible</code> <code>server-management</code> <code>taskfile</code> <code>atlas</code> <code>shell</code> <code>cybernetics</code> <code>bootstrap</code> <code>golang</code> <code>zero-trust</code> <code>cloud-native</code> <code>serverless</code> <code>iam</code> <code>user-profiling</code> <code>behavioral-tracking</code> <code>crm</code> <code>shadow-profiles</code> <code>vanity-url</code> <code>go-modules</code> <code>cloudflare-workers</code> <code>vanity-imports</code> <code>devops-tools</code>
+<code>stateless</code> <code>ui-framework</code> <code>ide</code> <code>split-pane</code> <code>jetbrains-ui</code> <code>layout</code> <code>react</code> <code>workspace</code> <code>draggable</code> <code>api-gateway</code> <code>postgresql</code> <code>automation</code> <code>docker</code> <code>infrastructure-as-code</code> <code>gitops</code> <code>devops</code> <code>server-management</code> <code>atlas</code> <code>taskfile</code> <code>vendor</code> <code>apache-apisix</code> <code>cybernetics</code> <code>shell</code> <code>bootstrap</code> <code>wsl</code> <code>ansible</code> <code>golang</code> <code>serverless</code> <code>zero-trust</code> <code>cloud-native</code> <code>cloudflare-workers</code> <code>devops-tools</code> <code>vanity-imports</code> <code>vanity-url</code> <code>go-modules</code> <code>go-get</code> <code>shadow-profiles</code> <code>behavioral-tracking</code> <code>crm</code> <code>user-profiling</code>
 
 ## 🚀 Contribution
+
+<!-- LATEST_ACTIVITY: 2026-05-11T11:19:58Z -->
+### ⚡ Features
+
+- **[go-vanity-imports-worker](https://github.com/leoweyr/go-vanity-imports-worker)** `Owned` — A Cloudflare Worker for seamless vanity import redirection, level up your Go modules with custom domains.
+
+  📈 **Past Day:** 9 Commits
+
+  🐛 **Latest:** [fix: correct repository owner variable in meta tag](https://github.com/leoweyr/go-vanity-imports-worker/commit/c4b76b0598df105956cd469d6f4be5582303d058) (4 minutes ago)
+
+- **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
+
+  📈 **Past Month:** 21 Commits
+
+- **[github-profile-readme-postprocessor](https://github.com/leoweyr/github-profile-readme-postprocessor)** `Owned` — A tool that leverages GitHub's built-in features to automatically update your GitHub profile readme file based on your situation and display needs, making the resume of your open-source journey on GitHub more direct, pure, and clear.
+
+  📈 **Past Month:** 3 Commits
+
+  🐛 **Latest:** [fix: increase HTTP write timeout to 60s](https://github.com/leoweyr/github-profile-readme-postprocessor/commit/559008144f681b2132fa5f2091798e488bb987d3) (1 week ago)
+
+<!-- LATEST_ACTIVITY_END -->
 
 <!-- LATEST_ACTIVITY: 2026-05-11T10:51:20Z -->
 ### ⚙️ Wheel
@@ -28,7 +49,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
   📈 **Past Day:** 4 Commits
 
-  ♻️ **Latest:** [refactor(tab): reorganize components into a dedicated subdirectory](https://github.com/leoweyr/react-ide-workspace-layout/commit/66eae98a011dfbbe7b2d53e98bb460ace23a7f1c) (9 minutes ago)
+  ♻️ **Latest:** [refactor(tab): reorganize components into a dedicated subdirectory](https://github.com/leoweyr/react-ide-workspace-layout/commit/66eae98a011dfbbe7b2d53e98bb460ace23a7f1c) (34 minutes ago)
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
@@ -58,27 +79,6 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 - **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
   📈 **Past Week:** 1 Commits
-
-<!-- LATEST_ACTIVITY_END -->
-
-<!-- LATEST_ACTIVITY: 2026-04-29T13:31:44Z -->
-### ⚡ Features
-
-- **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
-
-  📈 **Past Month:** 21 Commits
-
-- **[github-profile-readme-postprocessor](https://github.com/leoweyr/github-profile-readme-postprocessor)** `Owned` — A tool that leverages GitHub's built-in features to automatically update your GitHub profile readme file based on your situation and display needs, making the resume of your open-source journey on GitHub more direct, pure, and clear.
-
-  📈 **Past Month:** 3 Commits
-
-  🐛 **Latest:** [fix: increase HTTP write timeout to 60s](https://github.com/leoweyr/github-profile-readme-postprocessor/commit/559008144f681b2132fa5f2091798e488bb987d3) (1 week ago)
-
-- **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
-
-  📈 **Past Month:** 1 Commits
-
-  🐛 **Latest:** [fix(prepare-release): filter for `v*` tags in release workflow](https://github.com/leoweyr/github-release-workflow/commit/9cf4a099c38eef14c1fbcbd61f3d023bf6ad2493) (2 weeks ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
