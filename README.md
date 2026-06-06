@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-06-05 22:48 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-06-06 22:46 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,39 +17,43 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>api-gateway</code> <code>postgresql</code> <code>devops</code> <code>gitops</code> <code>automation</code> <code>ansible</code> <code>docker</code> <code>shell</code> <code>server-management</code> <code>vendor</code> <code>wsl</code> <code>atlas</code> <code>apache-apisix</code> <code>bootstrap</code> <code>taskfile</code> <code>infrastructure-as-code</code> <code>cybernetics</code> <code>golang</code> <code>token-vali</code> <code>typescript</code> <code>token-generation</code> <code>checksum</code> <code>cross-langu</code> <code>polyglot</code> <code>credential</code> <code>security</code> <code>token</code> <code>crc32</code> <code>module</code> <code>identity</code> <code>ide</code> <code>ui-framework</code> <code>react</code> <code>jetbrains-ui</code> <code>layout</code> <code>draggable</code> <code>split-pane</code> <code>stateless</code> <code>workspace</code> <code>behavioral-tracking</code>
+<code>api-gateway</code> <code>devops</code> <code>postgresql</code> <code>gitops</code> <code>automation</code> <code>ansible</code> <code>infrastructure-as-code</code> <code>atlas</code> <code>server-management</code> <code>bootstrap</code> <code>apache-apisix</code> <code>docker</code> <code>vendor</code> <code>cybernetics</code> <code>taskfile</code> <code>wsl</code> <code>shell</code> <code>golang</code> <code>typescript</code> <code>credential</code> <code>module</code> <code>polyglot</code> <code>token-vali</code> <code>identity</code> <code>cross-langu</code> <code>security</code> <code>token-generation</code> <code>crc32</code> <code>token</code> <code>checksum</code> <code>zero-trust</code> <code>shadow-profiles</code> <code>cloud-native</code> <code>crm</code> <code>behavioral-tracking</code> <code>user-profiling</code> <code>iam</code> <code>draggable</code> <code>layout</code> <code>react</code>
 
 ## 🚀 Contribution
 
-<!-- LATEST_ACTIVITY: 2026-06-05T15:27:42Z -->
-### ⚙️ Wheel
+<!-- LATEST_ACTIVITY: 2026-06-06T15:55:33Z -->
+### 📦️ Product
 
-- **[tokenforge](https://github.com/leoweyr/tokenforge)** `Owned` — One spec, every language — context-aware credential architecture for generating and verifying structured tokens with byte-identical layout and CRC32 tail checksums.
+- **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  📈 **Past Day:** 10 Commits
+  📈 **Past Day:** 4 Commits
 
-  🤖 **Latest:** [ci(release): support mono-repo push](https://github.com/leoweyr/tokenforge/commit/bb26c5fe2a627b3e010b128c3ad864d59b9b2e0f) (7 hours ago)
+- **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
-- **[go-vanity-imports-worker](https://github.com/leoweyr/go-vanity-imports-worker)** `Owned` — A Cloudflare Worker for seamless vanity import redirection, level up your Go modules with custom domains.
+  📈 **Past Month:** 9 Commits
 
-  📈 **Past Day:** 1 Commits
+- **[todo-requirement-blueprint-painter](https://github.com/leoweyr/todo-requirement-blueprint-painter)** `Owned` — A bidirectional visual editor for TODO Requirement Blueprints. Render YAML into interactive graphs, mutate architecture visually, and sync back to code.
 
-  ✨ **Latest:** [feat: support go-import meta tag prefix for subpackage import paths](https://github.com/leoweyr/go-vanity-imports-worker/commit/36b1e6a5083654cb63edba0c4bc9518410556496) (8 hours ago)
+  📈 **Past Month:** 1 Commits
 
-- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
-
-  📈 **Past Week:** 3 Commits
+  ✨ **Latest:** [feat(graph): enhance node description transitions](https://github.com/leoweyr/todo-requirement-blueprint-painter/commit/924946e957010d666307258bfc038c1b7129655a) (3 weeks ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-06-05T14:28:24Z -->
+<!-- LATEST_ACTIVITY: 2026-06-06T16:48:37+08:00 -->
 ### ⚡ Features
+
+- **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
+
+  📈 **Past Day:** 3 Commits
+
+  🐛 **Latest:** [fix(cliff): resolve changelog version title via explicit git range](https://github.com/leoweyr/github-release-workflow/commit/39f1408983b05f41b0a92c985422660769ce52cb) (13 hours ago)
 
 - **[go-vanity-imports-worker](https://github.com/leoweyr/go-vanity-imports-worker)** `Owned` — A Cloudflare Worker for seamless vanity import redirection, level up your Go modules with custom domains.
 
-  📈 **Past Day:** 1 Commits
+  📈 **Past Week:** 1 Commits
 
-  ✨ **Latest:** [feat: support go-import meta tag prefix for subpackage import paths](https://github.com/leoweyr/go-vanity-imports-worker/commit/36b1e6a5083654cb63edba0c4bc9518410556496) (8 hours ago)
+  ✨ **Latest:** [feat: support go-import meta tag prefix for subpackage import paths](https://github.com/leoweyr/go-vanity-imports-worker/commit/36b1e6a5083654cb63edba0c4bc9518410556496) (1 day ago)
 
 - **[.github](https://github.com/ODCLAB/.github)** — Odyssey & Creative & Meme
 
@@ -57,30 +61,26 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
   📌 **Latest:** [Add modern slogan](https://github.com/ODCLAB/.github/commit/5846bd384ca49f16c47a754270c3fdfc87a2a692) (1 week ago)
 
-- **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
-
-  📈 **Past Month:** 2 Commits
-
-  ✨ **Latest:** [feat: support mono-repo sub-package release and changelog](https://github.com/leoweyr/github-release-workflow/commit/350a1e8d5317d5ba861dd520f087877ede0f0b36) (1 week ago)
-
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-06-02T06:19:19Z -->
-### 📦️ Product
+<!-- LATEST_ACTIVITY: 2026-06-05T15:27:42Z -->
+### ⚙️ Wheel
 
-- **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
+- **[tokenforge](https://github.com/leoweyr/tokenforge)** `Owned` — One spec, every language — context-aware credential architecture for generating and verifying structured tokens with byte-identical layout and CRC32 tail checksums.
 
-  📈 **Past Week:** 4 Commits
+  📈 **Past Week:** 10 Commits
 
-- **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
+  🤖 **Latest:** [ci(release): support mono-repo push](https://github.com/leoweyr/tokenforge/commit/bb26c5fe2a627b3e010b128c3ad864d59b9b2e0f) (1 day ago)
 
-  📈 **Past Month:** 10 Commits
+- **[go-vanity-imports-worker](https://github.com/leoweyr/go-vanity-imports-worker)** `Owned` — A Cloudflare Worker for seamless vanity import redirection, level up your Go modules with custom domains.
 
-- **[todo-requirement-blueprint-painter](https://github.com/leoweyr/todo-requirement-blueprint-painter)** `Owned` — A bidirectional visual editor for TODO Requirement Blueprints. Render YAML into interactive graphs, mutate architecture visually, and sync back to code.
+  📈 **Past Week:** 1 Commits
 
-  📈 **Past Month:** 1 Commits
+  ✨ **Latest:** [feat: support go-import meta tag prefix for subpackage import paths](https://github.com/leoweyr/go-vanity-imports-worker/commit/36b1e6a5083654cb63edba0c4bc9518410556496) (1 day ago)
 
-  ✨ **Latest:** [feat(graph): enhance node description transitions](https://github.com/leoweyr/todo-requirement-blueprint-painter/commit/924946e957010d666307258bfc038c1b7129655a) (3 weeks ago)
+- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
+
+  📈 **Past Week:** 3 Commits
 
 <!-- LATEST_ACTIVITY_END -->
 
