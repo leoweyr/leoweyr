@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-06-18 22:29 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-06-19 02:44 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,7 +17,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>golang</code> <code>typescript</code> <code>token-generation</code> <code>credentials</code> <code>key-generation</code> <code>key-validation</code> <code>identity</code> <code>credential</code> <code>crc32</code> <code>module</code> <code>checksum</code> <code>token-validation</code> <code>cross-language</code> <code>token</code> <code>credential-generator</code> <code>key</code> <code>polyglot</code> <code>security</code> <code>api-gateway</code> <code>devops</code> <code>iam</code> <code>behavioral-tracking</code> <code>user-profiling</code> <code>shadow-profiles</code> <code>zero-trust</code> <code>cloud-native</code> <code>crm</code> <code>npm</code> <code>github-actions</code> <code>automated-release</code> <code>software-delivery</code> <code>release-automation</code> <code>git-cliff</code> <code>ci-cd</code> <code>package-registry</code> <code>changelog-generator</code> <code>npm-publish</code> <code>pipeline</code> <code>package-publishing</code> <code>production-ready</code>
+<code>golang</code> <code>key-validation</code> <code>crc32</code> <code>token</code> <code>key-generation</code> <code>typescript</code> <code>polyglot</code> <code>cross-language</code> <code>credentials</code> <code>security</code> <code>identity</code> <code>module</code> <code>checksum</code> <code>token-validation</code> <code>credential-generator</code> <code>key</code> <code>credential</code> <code>token-generation</code> <code>api-gateway</code> <code>devops</code> <code>cloud-native</code> <code>behavioral-tracking</code> <code>crm</code> <code>shadow-profiles</code> <code>iam</code> <code>user-profiling</code> <code>zero-trust</code> <code>npm</code> <code>github-actions</code> <code>software-delivery</code> <code>production-ready</code> <code>release-automation</code> <code>package-publishing</code> <code>npm-publish</code> <code>changelog-generator</code> <code>semantic-release</code> <code>ci-cd</code> <code>git-cliff</code> <code>reusable-workflows</code> <code>engineering-workflow</code>
 
 ## 🚀 Contribution
 
@@ -47,7 +47,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
   📈 **Past Day:** 1 Commits
 
-  🐛 **Latest:** [fix: resolve tag to commit SHA before passing to `git-cliff`](https://github.com/leoweyr/github-release-workflow/commit/50f660b08db24026169a8cfa2b5546ca8b8fdfc6) (8 hours ago)
+  🐛 **Latest:** [fix: resolve tag to commit SHA before passing to `git-cliff`](https://github.com/leoweyr/github-release-workflow/commit/50f660b08db24026169a8cfa2b5546ca8b8fdfc6) (12 hours ago)
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
@@ -59,24 +59,26 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-06-17T16:14:57Z -->
+<!-- LATEST_ACTIVITY: 2026-06-18T13:42:44Z -->
 ### ⚙️ Wheel
+
+- **[go-event-sourcing](https://github.com/leoweyr/go-event-sourcing)** `Owned` — The event sourcing core for Go backend services, drop in causal event envelopes, optimistic-locked aggregates, and built-in idempotency.
+
+  📈 **Past Day:** 2 Commits
+
+  ✨ **Latest:** [feat: bootstrap standalone package from Project: P](https://github.com/leoweyr/go-event-sourcing/commit/af462d75058567cf68a9867192bb38f3c64737c4) (13 hours ago)
 
 - **[keycutter](https://github.com/leoweyr/keycutter)** `Owned` — One spec, every language — context-aware credential architecture for generating and verifying structured tokens with byte-identical layout and CRC32 tail checksums.
 
-  📈 **Past Week:** 10 Commits
+  📈 **Past Week:** 10 Commits | 1 Pull Requests
 
   📝 **Latest:** [docs: add cli version badge](https://github.com/leoweyr/keycutter/commit/61a8dee692c86d3bad1d86a7b3b5a784f90d270e) (1 day ago)
 
-- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
+- **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Automatically handle strict request decoding, transparent validation with JSON-tag reflection, and standardized JSON responses.
 
   📈 **Past Week:** 2 Commits
 
-- **[legacy-script-engine-scaffold](https://github.com/leoweyr/legacy-script-engine-scaffold)** `Owned` — A utility for assisting in the development of Legacy Script Engine plugins, supporting a native development experience on the Node.js platform.
-
-  📈 **Past Month:** 1 Commits
-
-  📌 **Latest:** [Merge pull request #8 from leoweyr/dependabot/npm_and_yarn/lodash-4.18.1](https://github.com/leoweyr/legacy-script-engine-scaffold/commit/510c71fc16b653e09999f72724fe328d7db71336) (1 week ago)
+  ✨ **Latest:** [feat: add method to emit headers from a DTO](https://github.com/leoweyr/go-http-api-contract-io/commit/87865c1d665a9ef536dcf21f74be79fb10ecb896) (5 days ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
