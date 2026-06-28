@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-06-27 22:12 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-06-28 22:11 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,7 +17,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>golang</code> <code>module</code> <code>credential-generator</code> <code>typescript</code> <code>key-generation</code> <code>token-validation</code> <code>crc32</code> <code>key-validation</code> <code>key</code> <code>polyglot</code> <code>identity</code> <code>security</code> <code>token-generation</code> <code>token</code> <code>cross-language</code> <code>credentials</code> <code>checksum</code> <code>credential</code> <code>postgresql</code> <code>devops</code> <code>api-gateway</code> <code>event-driven</code> <code>webhook</code> <code>outbox-pattern</code> <code>serverless-triggers</code> <code>sidercar</code> <code>cdc</code> <code>npm</code> <code>engineering-workflow</code> <code>package-publishing</code> <code>changelog-generator</code> <code>semantic-release</code> <code>npm-publish</code> <code>release-automation</code> <code>ci-cd</code> <code>production-ready</code> <code>pipeline</code> <code>automated-release</code> <code>package-registry</code> <code>git-cliff</code>
+<code>golang</code> <code>token</code> <code>module</code> <code>crc32</code> <code>cross-language</code> <code>token-generation</code> <code>security</code> <code>checksum</code> <code>credentials</code> <code>key-generation</code> <code>typescript</code> <code>key</code> <code>credential-generator</code> <code>identity</code> <code>polyglot</code> <code>token-validation</code> <code>credential</code> <code>key-validation</code> <code>postgresql</code> <code>devops</code> <code>api-gateway</code> <code>outbox-pattern</code> <code>event-driven</code> <code>serverless-triggers</code> <code>webhook</code> <code>cdc</code> <code>sidercar</code> <code>npm</code> <code>conventional-commits</code> <code>pipeline</code> <code>software-delivery</code> <code>changelog-generator</code> <code>ci-cd</code> <code>release-automation</code> <code>engineering-workflow</code> <code>git-cliff</code> <code>automated-release</code> <code>npm-publish</code> <code>github-actions</code> <code>package-publishing</code>
 
 ## 🚀 Contribution
 
@@ -26,40 +26,17 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Week:** 5 Commits
+  📈 **Past Week:** 2 Commits
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
-  📈 **Past Week:** 4 Commits
+  📈 **Past Week:** 2 Commits
 
 - **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
 
-  📈 **Past Month:** 11 Commits
+  📈 **Past Month:** 10 Commits
 
   🐛 **Latest:** [fix: resolve tag to commit SHA before passing to `git-cliff`](https://github.com/leoweyr/github-release-workflow/commit/50f660b08db24026169a8cfa2b5546ca8b8fdfc6) (1 week ago)
-
-<!-- LATEST_ACTIVITY_END -->
-
-<!-- LATEST_ACTIVITY: 2026-06-19T02:51:59Z -->
-### ⚙️ Wheel
-
-- **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Automatically handle strict request decoding, transparent validation with JSON-tag reflection, and standardized JSON responses.
-
-  📈 **Past Month:** 4 Commits
-
-  📝 **Latest:** [docs: add go module badge](https://github.com/leoweyr/go-http-api-contract-io/commit/8b186a23e8fe2f702416fbd8b6dd37f8f5c322ef) (1 week ago)
-
-- **[go-event-sourcing](https://github.com/leoweyr/go-event-sourcing)** `Owned` — The event sourcing core for Go backend services, drop in causal event envelopes, optimistic-locked aggregates, and built-in idempotency.
-
-  📈 **Past Month:** 2 Commits
-
-  ✨ **Latest:** [feat: bootstrap standalone package from Project: P](https://github.com/leoweyr/go-event-sourcing/commit/af462d75058567cf68a9867192bb38f3c64737c4) (1 week ago)
-
-- **[keycutter](https://github.com/leoweyr/keycutter)** `Owned` — One spec, every language — context-aware credential architecture for generating and verifying structured tokens with byte-identical layout and CRC32 tail checksums.
-
-  📈 **Past Month:** 24 Commits | 1 Pull Requests
-
-  📝 **Latest:** [docs: add cli version badge](https://github.com/leoweyr/keycutter/commit/61a8dee692c86d3bad1d86a7b3b5a784f90d270e) (1 week ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
@@ -68,7 +45,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  📈 **Past Month:** 29 Commits
+  📈 **Past Month:** 27 Commits
 
 - **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
@@ -79,6 +56,27 @@ I am focused on architecting a Company of One — an ambitious organizational pa
   📈 **Past Year:** 167 Commits
 
   ✨ **Latest:** [feat(graph): enhance node description transitions](https://github.com/leoweyr/todo-requirement-blueprint-painter/commit/924946e957010d666307258bfc038c1b7129655a) (1 month ago)
+
+<!-- LATEST_ACTIVITY_END -->
+
+<!-- LATEST_ACTIVITY: 2026-06-17T15:57:18Z -->
+### ⚙️ Wheel
+
+- **[keycutter](https://github.com/leoweyr/keycutter)** `Owned` — One spec, every language — context-aware credential architecture for generating and verifying structured tokens with byte-identical layout and CRC32 tail checksums.
+
+  🔀 **Latest:** [release: cli@v1.0.0](https://github.com/leoweyr/keycutter/pull/11) (1 week ago)
+
+- **[react-ide-workspace-layout](https://github.com/leoweyr/react-ide-workspace-layout)** `Owned` — A powerful React framework for building JetBrains IDEA-like draggable, dockable, and stateless workspaces.
+
+  📈 **Past Year:** 71 Commits
+
+  ✨ **Latest:** [feat(menu): allow divider as valid menu items alongside menu items](https://github.com/leoweyr/react-ide-workspace-layout/commit/0e7642e7f34bde111ef18d7931c0eb1445f4805c) (1 month ago)
+
+- **[todo-requirement-blueprint-template](https://github.com/leoweyr/todo-requirement-blueprint-template)** `Owned` — This is a template repository for creating TODO Requirement Blueprint (TRB) project.
+
+  📈 **Past Year:** 4 Commits
+
+  🤖 **Latest:** [ci: add release workflows](https://github.com/leoweyr/todo-requirement-blueprint-template/commit/8dbca964d905ebc3523197d2e254bfb0993b6a4e) (2 months ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
