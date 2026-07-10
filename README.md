@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-07-09 22:15 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-07-10 22:12 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,7 +17,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>postgresql</code> <code>cdc</code> <code>serverless-triggers</code> <code>outbox-pattern</code> <code>event-driven</code> <code>sidercar</code> <code>webhook</code> <code>devops</code> <code>key</code> <code>credential</code> <code>golang</code> <code>security</code> <code>key-generation</code> <code>crc32</code> <code>identity</code> <code>token-validation</code> <code>credentials</code> <code>token</code> <code>typescript</code> <code>module</code> <code>cross-language</code> <code>checksum</code> <code>key-validation</code> <code>polyglot</code> <code>credential-generator</code> <code>token-generation</code> <code>api-gateway</code> <code>npm-publish</code> <code>git-cliff</code> <code>engineering-workflow</code> <code>ci-cd</code> <code>reusable-workflows</code> <code>software-delivery</code> <code>changelog-generator</code> <code>npm</code> <code>pipeline</code> <code>automated-release</code> <code>package-publishing</code> <code>conventional-commits</code> <code>package-registry</code>
+<code>postgresql</code> <code>event-driven</code> <code>sidercar</code> <code>webhook</code> <code>outbox-pattern</code> <code>serverless-triggers</code> <code>cdc</code> <code>devops</code> <code>checksum</code> <code>credential-generator</code> <code>security</code> <code>polyglot</code> <code>token-validation</code> <code>crc32</code> <code>cross-language</code> <code>identity</code> <code>module</code> <code>credential</code> <code>token</code> <code>key-generation</code> <code>typescript</code> <code>key</code> <code>credentials</code> <code>key-validation</code> <code>token-generation</code> <code>golang</code> <code>api-gateway</code> <code>package-publishing</code> <code>reusable-workflows</code> <code>git-cliff</code> <code>engineering-workflow</code> <code>automated-release</code> <code>npm-publish</code> <code>changelog-generator</code> <code>production-ready</code> <code>software-delivery</code> <code>semantic-release</code> <code>npm</code> <code>release-automation</code> <code>package-registry</code>
 
 ## 🚀 Contribution
 
@@ -26,7 +26,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
-  📈 **Past Day:** 3 Commits
+  📈 **Past Week:** 9 Commits
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
@@ -37,27 +37,6 @@ I am focused on architecting a Company of One — an ambitious organizational pa
   📈 **Past Month:** 7 Commits
 
   🐛 **Latest:** [fix: resolve tag to commit SHA before passing to `git-cliff`](https://github.com/leoweyr/github-release-workflow/commit/50f660b08db24026169a8cfa2b5546ca8b8fdfc6) (3 weeks ago)
-
-<!-- LATEST_ACTIVITY_END -->
-
-<!-- LATEST_ACTIVITY: 2026-06-22T15:52:28Z -->
-### ⚙️ Wheel
-
-- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
-
-  📈 **Past Month:** 7 Commits
-
-- **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Automatically handle strict request decoding, transparent validation with JSON-tag reflection, and standardized JSON responses.
-
-  📈 **Past Month:** 3 Commits
-
-  📝 **Latest:** [docs: add go module badge](https://github.com/leoweyr/go-http-api-contract-io/commit/8b186a23e8fe2f702416fbd8b6dd37f8f5c322ef) (2 weeks ago)
-
-- **[go-event-sourcing](https://github.com/leoweyr/go-event-sourcing)** `Owned` — The event sourcing core for Go backend services, drop in causal event envelopes, optimistic-locked aggregates, and built-in idempotency.
-
-  📈 **Past Month:** 2 Commits
-
-  ✨ **Latest:** [feat: bootstrap standalone package from Project: P](https://github.com/leoweyr/go-event-sourcing/commit/af462d75058567cf68a9867192bb38f3c64737c4) (3 weeks ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
@@ -80,13 +59,26 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-04-04T06:38:39Z -->
+<!-- LATEST_ACTIVITY: 2026-06-17T15:57:18Z -->
+### ⚙️ Wheel
+
+- **[keycutter](https://github.com/leoweyr/keycutter)** `Owned` — One spec, every language — context-aware credential architecture for generating and verifying structured tokens with byte-identical layout and CRC32 tail checksums.
+
+  🔀 **Latest:** [release: cli@v1.0.0](https://github.com/leoweyr/keycutter/pull/11) (3 weeks ago)
+
+- **[legacy-script-engine-api](https://github.com/LiteLDev/legacy-script-engine-api)** — Provides plugin API hints for development guidance on various native language platforms supported by the Legacy Script Engine.
+
+  🔀 **Latest:** [release: JavaScript@v2.18.0](https://github.com/LiteLDev/legacy-script-engine-api/pull/59) (4 months ago)
+
+- **[LegacyScriptEngine](https://github.com/leoweyr/LegacyScriptEngine)** `Owned` — A plugin engine for running LLSE plugins on LeviLamina
+
+  📈 **Past Year:** 1 Commits
+
+  📌 **Latest:** [Merge branch 'LiteLDev:develop' into develop](https://github.com/leoweyr/LegacyScriptEngine/commit/34477ffb5524577b280dcfe2bb447882d963f0f9) (8 months ago)
+
+<!-- LATEST_ACTIVITY_END -->
+
+<!-- LATEST_ACTIVITY: 0001-01-01T00:00:00Z -->
 ### 📜 Specification
-
-- **[todo-requirement-blueprint-spec](https://github.com/leoweyr/todo-requirement-blueprint-spec)** `Owned` — A declarative, executable blueprint specification that eradicates over-engineering by aligning business strategy with system architecture through a strict Demand-Pull model.
-
-  📈 **Past Year:** 9 Commits
-
-  📝 **Latest:** [docs: introduce @todo-requirement-blueprint/engine](https://github.com/leoweyr/todo-requirement-blueprint-spec/commit/547f1462cb63783c3d6d5797f9555818638591bc) (3 months ago)
 
 <!-- LATEST_ACTIVITY_END -->
