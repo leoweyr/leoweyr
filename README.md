@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-07-11 22:07 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-07-12 22:07 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,16 +17,16 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>postgresql</code> <code>outbox-pattern</code> <code>sidercar</code> <code>event-driven</code> <code>webhook</code> <code>cdc</code> <code>serverless-triggers</code> <code>devops</code> <code>crc32</code> <code>module</code> <code>identity</code> <code>checksum</code> <code>token</code> <code>credential-generator</code> <code>token-validation</code> <code>typescript</code> <code>key</code> <code>key-validation</code> <code>token-generation</code> <code>credential</code> <code>security</code> <code>polyglot</code> <code>cross-language</code> <code>key-generation</code> <code>credentials</code> <code>golang</code> <code>api-gateway</code> <code>package-publishing</code> <code>engineering-workflow</code> <code>software-delivery</code> <code>npm-publish</code> <code>pipeline</code> <code>changelog-generator</code> <code>ci-cd</code> <code>package-registry</code> <code>semantic-release</code> <code>automated-release</code> <code>reusable-workflows</code> <code>npm</code> <code>github-actions</code>
+<code>postgresql</code> <code>event-driven</code> <code>webhook</code> <code>serverless-triggers</code> <code>sidercar</code> <code>outbox-pattern</code> <code>cdc</code> <code>golang</code> <code>zero-trust</code> <code>signed-envelope</code> <code>microservices-security</code> <code>internal-api-security</code> <code>canonical-encoding</code> <code>cloud-native-security</code> <code>request-signing</code> <code>hmac-sha256</code> <code>service-to-service</code> <code>hkdf</code> <code>message-authentication</code> <code>request-authentication</code> <code>intranet-security</code> <code>devops</code> <code>typescript</code> <code>credential</code> <code>module</code> <code>key-generation</code> <code>crc32</code> <code>key-validation</code> <code>token-generation</code> <code>token</code> <code>polyglot</code> <code>identity</code> <code>security</code> <code>credential-generator</code> <code>token-validation</code> <code>credentials</code> <code>key</code> <code>checksum</code> <code>cross-language</code> <code>api-gateway</code>
 
 ## 🚀 Contribution
 
-<!-- LATEST_ACTIVITY: 2026-07-11T10:01:05Z -->
+<!-- LATEST_ACTIVITY: 2026-07-12T12:34:35Z -->
 ### ⚡ Features
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
-  📈 **Past Day:** 6 Commits
+  📈 **Past Day:** 4 Commits
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
@@ -45,7 +45,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  📈 **Past Day:** 1 Commits
+  📈 **Past Week:** 1 Commits
 
 - **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
@@ -59,20 +59,24 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-06-17T15:57:18Z -->
+<!-- LATEST_ACTIVITY: 2026-06-22T15:52:28Z -->
 ### ⚙️ Wheel
 
-- **[keycutter](https://github.com/leoweyr/keycutter)** `Owned` — One spec, every language — context-aware credential architecture for generating and verifying structured tokens with byte-identical layout and CRC32 tail checksums.
+- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  🔀 **Latest:** [release: cli@v1.0.0](https://github.com/leoweyr/keycutter/pull/11) (3 weeks ago)
+  📈 **Past Month:** 7 Commits
 
-- **[legacy-script-engine-api](https://github.com/LiteLDev/legacy-script-engine-api)** — Provides plugin API hints for development guidance on various native language platforms supported by the Legacy Script Engine.
+- **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Automatically handle strict request decoding, transparent validation with JSON-tag reflection, and standardized JSON responses.
 
-  🔀 **Latest:** [release: JavaScript@v2.18.0](https://github.com/LiteLDev/legacy-script-engine-api/pull/59) (4 months ago)
+  📈 **Past Month:** 3 Commits
 
-- **Project: WNPOEA** `Private`
+  📝 **Latest:** [docs: add go module badge](https://github.com/leoweyr/go-http-api-contract-io/commit/8b186a23e8fe2f702416fbd8b6dd37f8f5c322ef) (3 weeks ago)
 
-  📈 **Past Year:** 1 Commits
+- **[go-event-sourcing](https://github.com/leoweyr/go-event-sourcing)** `Owned` — The event sourcing core for Go backend services, drop in causal event envelopes, optimistic-locked aggregates, and built-in idempotency.
+
+  📈 **Past Month:** 2 Commits
+
+  ✨ **Latest:** [feat: bootstrap standalone package from Project: P](https://github.com/leoweyr/go-event-sourcing/commit/af462d75058567cf68a9867192bb38f3c64737c4) (3 weeks ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
