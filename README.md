@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-07-18 22:07 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-07-19 22:07 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,16 +17,35 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>postgresql</code> <code>event-driven</code> <code>webhook</code> <code>sidecar</code> <code>serverless-triggers</code> <code>outbox-pattern</code> <code>cdc</code> <code>zero-trust</code> <code>api-gateway</code> <code>behavioral-tracking</code> <code>crm</code> <code>user-profiling</code> <code>cloud-native</code> <code>iam</code> <code>shadow-profiles</code> <code>library</code> <code>request-authentication</code> <code>cloud-native-security</code> <code>hkdf</code> <code>internal-api-security</code> <code>canonical-encoding</code> <code>intranet-security</code> <code>message-authentication</code> <code>hmac-sha256</code> <code>golang</code> <code>microservices-security</code> <code>signed-envelope</code> <code>request-signing</code> <code>service-to-service</code> <code>wsl</code> <code>vendor</code> <code>taskfile</code> <code>gitops</code> <code>atlas</code> <code>bootstrap</code> <code>shell</code> <code>ansible</code> <code>docker</code> <code>cybernetics</code> <code>automation</code>
+<code>postgresql</code> <code>cdc</code> <code>sidecar</code> <code>event-driven</code> <code>serverless-triggers</code> <code>outbox-pattern</code> <code>webhook</code> <code>zero-trust</code> <code>api-gateway</code> <code>user-profiling</code> <code>crm</code> <code>behavioral-tracking</code> <code>iam</code> <code>cloud-native</code> <code>shadow-profiles</code> <code>automation</code> <code>gitops</code> <code>service-to-service</code> <code>golang</code> <code>signed-envelope</code> <code>internal-api-security</code> <code>request-signing</code> <code>hkdf</code> <code>hmac-sha256</code> <code>cloud-native-security</code> <code>request-authentication</code> <code>canonical-encoding</code> <code>message-authentication</code> <code>microservices-security</code> <code>library</code> <code>intranet-security</code> <code>github-actions</code> <code>vendoring</code> <code>single-source-of-truth</code> <code>pubsub</code> <code>reusable-workflow</code> <code>event-driven-architecture</code> <code>cross-repo-sync</code> <code>dependency-management</code> <code>devops</code>
 
 ## 🚀 Contribution
+
+<!-- LATEST_ACTIVITY: 2026-07-19T07:23:06Z -->
+### ⚡ Features
+
+- **[gitops-vendor-sync-workflow](https://github.com/leoweyr/gitops-vendor-sync-workflow)** `Owned` — A reusable GitOps vendoring workflow. Automatically syncs and materializes shared code across repositories via event-driven Pub/Sub.
+
+  📈 **Past Day:** 1 Commits
+
+  ✨ **Latest:** [feat: support setting default target directories for vendor broadcasts](https://github.com/leoweyr/gitops-vendor-sync-workflow/commit/fd2273c767d6634eb04acc905acca15deb6ee835) (14 hours ago)
+
+- **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
+
+  📈 **Past Week:** 2 Commits
+
+- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
+
+  📈 **Past Week:** 1 Commits
+
+<!-- LATEST_ACTIVITY_END -->
 
 <!-- LATEST_ACTIVITY: 2026-07-18T15:32:38Z -->
 ### 📦️ Product
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  📈 **Past Day:** 3 Commits
+  📈 **Past Week:** 6 Commits
 
 - **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
@@ -40,25 +59,6 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-07-13T11:27:22Z -->
-### ⚡ Features
-
-- **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
-
-  📈 **Past Week:** 6 Commits
-
-- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
-
-  📈 **Past Week:** 1 Commits
-
-- **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
-
-  📈 **Past Year:** 41 Commits
-
-  🐛 **Latest:** [fix: resolve tag to commit SHA before passing to `git-cliff`](https://github.com/leoweyr/github-release-workflow/commit/50f660b08db24026169a8cfa2b5546ca8b8fdfc6) (1 month ago)
-
-<!-- LATEST_ACTIVITY_END -->
-
 <!-- LATEST_ACTIVITY: 2026-07-13T08:52:18Z -->
 ### ⚙️ Wheel
 
@@ -68,15 +68,15 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **[go-intranet-zero-trust](https://github.com/leoweyr/go-intranet-zero-trust)** `Owned` — Make every intranet call prove itself, directional HKDF keys, canonical authentication envelopes, HMAC-SHA256 request signing, and header-safe transport.
 
-  📈 **Past Week:** 2 Commits
+  📈 **Past Month:** 2 Commits
 
-  ✨ **Latest:** [feat: bootstrap standalone package from Project: POR](https://github.com/leoweyr/go-intranet-zero-trust/commit/367836895d0e0f381b72a8e23f18de13600974a8) (6 days ago)
+  ✨ **Latest:** [feat: bootstrap standalone package from Project: POR](https://github.com/leoweyr/go-intranet-zero-trust/commit/367836895d0e0f381b72a8e23f18de13600974a8) (1 week ago)
 
 - **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Automatically handle strict request decoding, transparent validation with JSON-tag reflection, and standardized JSON responses.
 
-  📈 **Past Month:** 1 Commits
+  📈 **Past Year:** 12 Commits
 
-  📝 **Latest:** [docs: add go module badge](https://github.com/leoweyr/go-http-api-contract-io/commit/8b186a23e8fe2f702416fbd8b6dd37f8f5c322ef) (4 weeks ago)
+  📝 **Latest:** [docs: add go module badge](https://github.com/leoweyr/go-http-api-contract-io/commit/8b186a23e8fe2f702416fbd8b6dd37f8f5c322ef) (1 month ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
