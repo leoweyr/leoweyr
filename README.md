@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-07-20 22:10 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-07-21 22:10 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,54 +17,76 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>postgresql</code> <code>sidecar</code> <code>event-driven</code> <code>webhook</code> <code>cdc</code> <code>serverless-triggers</code> <code>outbox-pattern</code> <code>zero-trust</code> <code>api-gateway</code> <code>cloud-native</code> <code>behavioral-tracking</code> <code>iam</code> <code>crm</code> <code>user-profiling</code> <code>shadow-profiles</code> <code>request-authentication</code> <code>gitops</code> <code>request-signing</code> <code>microservices-security</code> <code>golang</code> <code>service-to-service</code> <code>library</code> <code>intranet-security</code> <code>automation</code> <code>hmac-sha256</code> <code>canonical-encoding</code> <code>hkdf</code> <code>internal-api-security</code> <code>message-authentication</code> <code>signed-envelope</code> <code>cloud-native-security</code> <code>dependency-management</code> <code>pubsub</code> <code>github-actions</code> <code>vendoring</code> <code>single-source-of-truth</code> <code>reusable-workflow</code> <code>event-driven-architecture</code> <code>cross-repo-sync</code> <code>taskfile</code>
+<code>postgresql</code> <code>webhook</code> <code>event-driven</code> <code>outbox-pattern</code> <code>sidecar</code> <code>cdc</code> <code>serverless-triggers</code> <code>zero-trust</code> <code>api-gateway</code> <code>iam</code> <code>shadow-profiles</code> <code>behavioral-tracking</code> <code>user-profiling</code> <code>crm</code> <code>cloud-native</code> <code>request-authentication</code> <code>hkdf</code> <code>canonical-encoding</code> <code>library</code> <code>microservices-security</code> <code>signed-envelope</code> <code>request-signing</code> <code>internal-api-security</code> <code>service-to-service</code> <code>cloud-native-security</code> <code>intranet-security</code> <code>golang</code> <code>hmac-sha256</code> <code>message-authentication</code> <code>gitops</code> <code>automation</code> <code>cross-repo-sync</code> <code>single-source-of-truth</code> <code>vendoring</code> <code>pubsub</code> <code>event-driven-architecture</code> <code>github-actions</code> <code>dependency-management</code> <code>reusable-workflow</code> <code>infrastructure-as-code</code>
 
 ## 🚀 Contribution
 
-<!-- LATEST_ACTIVITY: 2026-06-17T15:57:18Z -->
-### ⚙️ Wheel
-
-- **[keycutter](https://github.com/leoweyr/keycutter)** `Owned` — One spec, every language — context-aware credential architecture for generating and verifying structured tokens with byte-identical layout and CRC32 tail checksums.
-
-  🔀 **Latest:** [release: cli@v1.0.0](https://github.com/leoweyr/keycutter/pull/11) (1 month ago)
-
-- **[legacy-script-engine-api](https://github.com/LiteLDev/legacy-script-engine-api)** — Provides plugin API hints for development guidance on various native language platforms supported by the Legacy Script Engine.
-
-  🔀 **Latest:** [release: JavaScript@v2.18.0](https://github.com/LiteLDev/legacy-script-engine-api/pull/59) (4 months ago)
-
-<!-- LATEST_ACTIVITY_END -->
-
-<!-- LATEST_ACTIVITY: 2026-06-07T15:13:50Z -->
+<!-- LATEST_ACTIVITY: 2026-07-19T07:23:06Z -->
 ### ⚡ Features
 
-- **[cctoast-wsl](https://github.com/claudes-world/cctoast-wsl)** — Use hooks in Claude Code to trigger Windows toast notifications with sounds, messages, titles, and images, from inside WSL.
+- **[gitops-vendor-sync-workflow](https://github.com/leoweyr/gitops-vendor-sync-workflow)** `Owned` — A reusable GitOps vendoring workflow. Automatically syncs and materializes shared code across repositories via event-driven Pub/Sub.
 
-  📈 **Past Year:** 1 Issues
+  📈 **Past Week:** 1 Commits
 
-  ⚠️ **Latest:** [Can't Find the Package @claude/cctoast-wsl on NPM](https://github.com/claudes-world/cctoast-wsl/issues/82) (1 month ago)
+  ✨ **Latest:** [feat: support setting default target directories for vendor broadcasts](https://github.com/leoweyr/gitops-vendor-sync-workflow/commit/fd2273c767d6634eb04acc905acca15deb6ee835) (2 days ago)
 
-- **[legacy-script-engine-api](https://github.com/LiteLDev/legacy-script-engine-api)** — Provides plugin API hints for development guidance on various native language platforms supported by the Legacy Script Engine.
+- **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
-  🔀 **Latest:** [release: JavaScript@v2.18.0](https://github.com/LiteLDev/legacy-script-engine-api/pull/59) (4 months ago)
+  📈 **Past Month:** 23 Commits
 
-- **[LeviLamina](https://github.com/LiteLDev/LeviLamina)** — A lightweight, modular and versatile mod loader for Minecraft Bedrock Edition, formerly known as LiteLoaderBDS
+- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Year:** 1 Issues
-
-  💬 **Latest:** [[Feature] Linux port](https://github.com/LiteLDev/LeviLamina/issues/1751#issuecomment-3382501273) (9 months ago)
+  📈 **Past Month:** 3 Commits
 
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-01-19T02:25:46Z -->
+<!-- LATEST_ACTIVITY: 2026-07-18T15:32:38Z -->
 ### 📦️ Product
 
-- **[leoweyr-original-verse](https://github.com/leoweyr/leoweyr-original-verse)** `Owned` — A personal website independently designed and developed by leoweyr, powered by TypeScript, React, and Vite. The prototype and initial mockup designs were created using Concepts and Figma.
+- **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  🔀 **Latest:** [release: v0.2.0](https://github.com/leoweyr/leoweyr-original-verse/pull/3) (6 months ago)
+  📈 **Past Week:** 3 Commits
+
+- **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
+
+  📈 **Past Year:** 13 Commits
+
+- **[todo-requirement-blueprint-painter](https://github.com/leoweyr/todo-requirement-blueprint-painter)** `Owned` — A bidirectional visual editor for TODO Requirement Blueprints. Render YAML into interactive graphs, mutate architecture visually, and sync back to code.
+
+  📈 **Past Year:** 167 Commits
+
+  ✨ **Latest:** [feat(graph): enhance node description transitions](https://github.com/leoweyr/todo-requirement-blueprint-painter/commit/924946e957010d666307258bfc038c1b7129655a) (2 months ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 0001-01-01T00:00:00Z -->
+<!-- LATEST_ACTIVITY: 2026-07-13T08:52:18Z -->
+### ⚙️ Wheel
+
+- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
+
+  📈 **Past Month:** 3 Commits
+
+- **[go-intranet-zero-trust](https://github.com/leoweyr/go-intranet-zero-trust)** `Owned` — Make every intranet call prove itself, directional HKDF keys, canonical authentication envelopes, HMAC-SHA256 request signing, and header-safe transport.
+
+  📈 **Past Month:** 2 Commits
+
+  ✨ **Latest:** [feat: bootstrap standalone package from Project: POR](https://github.com/leoweyr/go-intranet-zero-trust/commit/367836895d0e0f381b72a8e23f18de13600974a8) (1 week ago)
+
+- **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Automatically handle strict request decoding, transparent validation with JSON-tag reflection, and standardized JSON responses.
+
+  📈 **Past Year:** 12 Commits
+
+  📝 **Latest:** [docs: add go module badge](https://github.com/leoweyr/go-http-api-contract-io/commit/8b186a23e8fe2f702416fbd8b6dd37f8f5c322ef) (1 month ago)
+
+<!-- LATEST_ACTIVITY_END -->
+
+<!-- LATEST_ACTIVITY: 2026-04-04T06:38:39Z -->
 ### 📜 Specification
+
+- **[todo-requirement-blueprint-spec](https://github.com/leoweyr/todo-requirement-blueprint-spec)** `Owned` — A declarative, executable blueprint specification that eradicates over-engineering by aligning business strategy with system architecture through a strict Demand-Pull model.
+
+  📈 **Past Year:** 9 Commits
+
+  📝 **Latest:** [docs: introduce @todo-requirement-blueprint/engine](https://github.com/leoweyr/todo-requirement-blueprint-spec/commit/547f1462cb63783c3d6d5797f9555818638591bc) (3 months ago)
 
 <!-- LATEST_ACTIVITY_END -->
