@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-07-31 22:12 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-08-01 22:08 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,16 +17,16 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>postgresql</code> <code>api-gateway</code> <code>zero-trust</code> <code>event-driven</code> <code>outbox-pattern</code> <code>serverless-triggers</code> <code>cdc</code> <code>sidecar</code> <code>webhook</code> <code>automation</code> <code>gitops</code> <code>shadow-profiles</code> <code>user-profiling</code> <code>iam</code> <code>behavioral-tracking</code> <code>crm</code> <code>cloud-native</code> <code>cybernetics</code> <code>shell</code> <code>taskfile</code> <code>bootstrap</code> <code>server-management</code> <code>ansible</code> <code>apache-apisix</code> <code>infrastructure-as-code</code> <code>wsl</code> <code>devops</code> <code>atlas</code> <code>docker</code> <code>vendor</code> <code>library</code> <code>hkdf</code> <code>golang</code> <code>signed-envelope</code> <code>service-to-service</code> <code>request-signing</code> <code>microservices-security</code> <code>message-authentication</code> <code>canonical-encoding</code> <code>intranet-security</code>
+<code>api-gateway</code> <code>postgresql</code> <code>zero-trust</code> <code>cloud-native</code> <code>behavioral-tracking</code> <code>crm</code> <code>user-profiling</code> <code>shadow-profiles</code> <code>iam</code> <code>automation</code> <code>gitops</code> <code>library</code> <code>outbox-pattern</code> <code>event-driven</code> <code>serverless-triggers</code> <code>cdc</code> <code>webhook</code> <code>sidecar</code> <code>docker</code> <code>vendor</code> <code>ansible</code> <code>cybernetics</code> <code>server-management</code> <code>devops</code> <code>apache-apisix</code> <code>atlas</code> <code>wsl</code> <code>infrastructure-as-code</code> <code>shell</code> <code>taskfile</code> <code>bootstrap</code> <code>microservices-security</code> <code>canonical-encoding</code> <code>request-signing</code> <code>intranet-security</code> <code>cloud-native-security</code> <code>internal-api-security</code> <code>message-authentication</code> <code>request-authentication</code> <code>service-to-service</code>
 
 ## 🚀 Contribution
 
-<!-- LATEST_ACTIVITY: 2026-07-29T14:56:52Z -->
+<!-- LATEST_ACTIVITY: 2026-08-01T14:28:23Z -->
 ### 📦️ Product
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  📈 **Past Week:** 4 Commits
+  📈 **Past Day:** 5 Commits
 
 - **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
@@ -40,43 +40,43 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 <!-- LATEST_ACTIVITY_END -->
 
-<!-- LATEST_ACTIVITY: 2026-07-28T15:29:42Z -->
+<!-- LATEST_ACTIVITY: 2026-08-01T11:54:15Z -->
+### ⚙️ Wheel
+
+- **[go-event-sourcing](https://github.com/leoweyr/go-event-sourcing)** `Owned` — The event sourcing core for Go backend services, drop in causal event envelopes, optimistic-locked aggregates, and built-in idempotency.
+
+  📈 **Past Day:** 2 Commits
+
+  ✨ **Latest:** [feat: expose maximum domain sequence number lookup](https://github.com/leoweyr/go-event-sourcing/commit/4bb9ef81ee83b3e8b83c19fe1d70a8ca6e6f9c6e) (10 hours ago)
+
+- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
+
+  📈 **Past Day:** 2 Commits
+
+- **[go-intranet-zero-trust](https://github.com/leoweyr/go-intranet-zero-trust)** `Owned` — Make every intranet call prove itself, directional HKDF keys, canonical authentication envelopes, HMAC-SHA256 request signing, and header-safe transport.
+
+  📈 **Past Week:** 3 Commits
+
+  ✨ **Latest:** [feat: add intranet requester and receiver](https://github.com/leoweyr/go-intranet-zero-trust/commit/2b6893b7371f23ebabcaf262a2d606436bccfc9d) (4 days ago)
+
+<!-- LATEST_ACTIVITY_END -->
+
+<!-- LATEST_ACTIVITY: 2026-08-01T07:13:57Z -->
 ### ⚡ Features
+
+- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
+
+  📈 **Past Day:** 2 Commits
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
   📈 **Past Week:** 4 Commits
-
-- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
-
-  📈 **Past Week:** 7 Commits
 
 - **[gitops-vendor-sync-workflow](https://github.com/leoweyr/gitops-vendor-sync-workflow)** `Owned` — A reusable GitOps vendoring workflow. Automatically syncs and materializes shared code across repositories via event-driven Pub/Sub.
 
   📈 **Past Month:** 2 Commits
 
   ✨ **Latest:** [feat: resolve and subscribe to transitive vendor dependencies](https://github.com/leoweyr/gitops-vendor-sync-workflow/commit/2370b427f320157e47a6f480dcac2f235bd0bca5) (1 week ago)
-
-<!-- LATEST_ACTIVITY_END -->
-
-<!-- LATEST_ACTIVITY: 2026-07-28T15:00:49Z -->
-### ⚙️ Wheel
-
-- **[go-intranet-zero-trust](https://github.com/leoweyr/go-intranet-zero-trust)** `Owned` — Make every intranet call prove itself, directional HKDF keys, canonical authentication envelopes, HMAC-SHA256 request signing, and header-safe transport.
-
-  📈 **Past Week:** 3 Commits
-
-  ✨ **Latest:** [feat: add intranet requester and receiver](https://github.com/leoweyr/go-intranet-zero-trust/commit/2b6893b7371f23ebabcaf262a2d606436bccfc9d) (3 days ago)
-
-- **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
-
-  📈 **Past Week:** 7 Commits
-
-- **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Automatically handle strict request decoding, transparent validation with JSON-tag reflection, and standardized JSON responses.
-
-  📈 **Past Year:** 12 Commits
-
-  📝 **Latest:** [docs: add go module badge](https://github.com/leoweyr/go-http-api-contract-io/commit/8b186a23e8fe2f702416fbd8b6dd37f8f5c322ef) (1 month ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
