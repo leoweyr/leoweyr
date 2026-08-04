@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-08-03 22:13 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-08-04 22:14 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,26 +17,26 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>api-gateway</code> <code>zero-trust</code> <code>postgresql</code> <code>library</code> <code>cloud-native</code> <code>crm</code> <code>behavioral-tracking</code> <code>shadow-profiles</code> <code>iam</code> <code>user-profiling</code> <code>event-driven-architecture</code> <code>distributed-systems</code> <code>cqrs</code> <code>domain-driven-design</code> <code>optimistic-lock</code> <code>unit-of-work</code> <code>concurrency-control</code> <code>event-sourcing</code> <code>eventual-consistency</code> <code>ddd</code> <code>idempotency</code> <code>clean-architecture</code> <code>event-store</code> <code>hexagonal-architecture</code> <code>aggregate-root</code> <code>gitops</code> <code>automation</code> <code>cdc</code> <code>outbox-pattern</code> <code>sidecar</code> <code>webhook</code> <code>event-driven</code> <code>serverless-triggers</code> <code>taskfile</code> <code>shell</code> <code>cybernetics</code> <code>apache-apisix</code> <code>ansible</code> <code>docker</code> <code>wsl</code>
+<code>api-gateway</code> <code>zero-trust</code> <code>postgresql</code> <code>library</code> <code>user-profiling</code> <code>crm</code> <code>shadow-profiles</code> <code>behavioral-tracking</code> <code>iam</code> <code>cloud-native</code> <code>event-driven-architecture</code> <code>aggregate-root</code> <code>event-sourcing</code> <code>distributed-systems</code> <code>optimistic-lock</code> <code>unit-of-work</code> <code>clean-architecture</code> <code>ddd</code> <code>cqrs</code> <code>idempotency</code> <code>domain-driven-design</code> <code>concurrency-control</code> <code>event-store</code> <code>eventual-consistency</code> <code>hexagonal-architecture</code> <code>gitops</code> <code>automation</code> <code>devops</code> <code>serverless-triggers</code> <code>cdc</code> <code>sidecar</code> <code>event-driven</code> <code>webhook</code> <code>outbox-pattern</code> <code>cybernetics</code> <code>bootstrap</code> <code>shell</code> <code>wsl</code> <code>vendor</code> <code>ansible</code>
 
 ## 🚀 Contribution
 
-<!-- LATEST_ACTIVITY: 2026-08-03T15:25:26Z -->
+<!-- LATEST_ACTIVITY: 2026-08-04T12:40:36Z -->
 ### ⚡ Features
+
+- **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
+
+  📈 **Past Day:** 1 Commits
+
+  📌 **Latest:** [build: establish TypeScript action toolchain](https://github.com/leoweyr/github-release-workflow/commit/b09b685d50e017cb870c6410b169ff925e40e191) (9 hours ago)
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
-  📈 **Past Day:** 1 Commits
+  📈 **Past Week:** 1 Commits
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
   📈 **Past Week:** 2 Commits
-
-- **[gitops-vendor-sync-workflow](https://github.com/leoweyr/gitops-vendor-sync-workflow)** `Owned` — A reusable GitOps vendoring workflow. Automatically syncs and materializes shared code across repositories via event-driven Pub/Sub.
-
-  📈 **Past Month:** 2 Commits
-
-  ✨ **Latest:** [feat: resolve and subscribe to transitive vendor dependencies](https://github.com/leoweyr/gitops-vendor-sync-workflow/commit/2370b427f320157e47a6f480dcac2f235bd0bca5) (1 week ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
@@ -45,7 +45,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  📈 **Past Day:** 4 Commits
+  📈 **Past Week:** 12 Commits
 
 - **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
@@ -66,7 +66,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
   📈 **Past Week:** 6 Commits
 
-  📌 **Latest:** [build: upgrade module path to v4](https://github.com/leoweyr/go-event-sourcing/commit/71900dee08e8d8b821718200d61fa01a66b6f915) (1 day ago)
+  📌 **Latest:** [build: upgrade module path to v4](https://github.com/leoweyr/go-event-sourcing/commit/71900dee08e8d8b821718200d61fa01a66b6f915) (2 days ago)
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
@@ -74,9 +74,9 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **[go-intranet-zero-trust](https://github.com/leoweyr/go-intranet-zero-trust)** `Owned` — Make every intranet call prove itself, directional HKDF keys, canonical authentication envelopes, HMAC-SHA256 request signing, and header-safe transport.
 
-  📈 **Past Week:** 3 Commits
+  📈 **Past Month:** 5 Commits
 
-  ✨ **Latest:** [feat: add intranet requester and receiver](https://github.com/leoweyr/go-intranet-zero-trust/commit/2b6893b7371f23ebabcaf262a2d606436bccfc9d) (6 days ago)
+  ✨ **Latest:** [feat: add intranet requester and receiver](https://github.com/leoweyr/go-intranet-zero-trust/commit/2b6893b7371f23ebabcaf262a2d606436bccfc9d) (1 week ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
