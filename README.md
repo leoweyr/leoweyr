@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-08-07 22:01 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-08-08 21:57 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,18 +17,18 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>api-gateway</code> <code>zero-trust</code> <code>library</code> <code>iam</code> <code>cloud-native</code> <code>crm</code> <code>behavioral-tracking</code> <code>shadow-profiles</code> <code>user-profiling</code> <code>postgresql</code> <code>event-driven-architecture</code> <code>devops</code> <code>clean-architecture</code> <code>eventual-consistency</code> <code>ddd</code> <code>hexagonal-architecture</code> <code>cqrs</code> <code>domain-driven-design</code> <code>optimistic-lock</code> <code>unit-of-work</code> <code>concurrency-control</code> <code>aggregate-root</code> <code>distributed-systems</code> <code>idempotency</code> <code>event-sourcing</code> <code>event-store</code> <code>automation</code> <code>gitops</code> <code>vendor</code> <code>ansible</code> <code>shell</code> <code>cybernetics</code> <code>atlas</code> <code>bootstrap</code> <code>docker</code> <code>taskfile</code> <code>infrastructure-as-code</code> <code>apache-apisix</code> <code>server-management</code> <code>wsl</code>
+<code>api-gateway</code> <code>zero-trust</code> <code>devops</code> <code>library</code> <code>crm</code> <code>shadow-profiles</code> <code>cloud-native</code> <code>behavioral-tracking</code> <code>user-profiling</code> <code>iam</code> <code>postgresql</code> <code>event-driven-architecture</code> <code>eventual-consistency</code> <code>event-sourcing</code> <code>idempotency</code> <code>hexagonal-architecture</code> <code>unit-of-work</code> <code>cqrs</code> <code>optimistic-lock</code> <code>concurrency-control</code> <code>clean-architecture</code> <code>aggregate-root</code> <code>domain-driven-design</code> <code>event-store</code> <code>ddd</code> <code>distributed-systems</code> <code>github-actions</code> <code>gitops</code> <code>automation</code> <code>npm</code> <code>package-publishing</code> <code>git-cliff</code> <code>conventional-commits</code> <code>changelog-generator</code> <code>production-ready</code> <code>semantic-release</code> <code>reusable-workflows</code> <code>npm-publish</code> <code>package-registry</code> <code>automated-release</code>
 
 ## 🚀 Contribution
 
-<!-- LATEST_ACTIVITY: 2026-08-05T13:28:55Z -->
+<!-- LATEST_ACTIVITY: 2026-08-08T14:50:48Z -->
 ### ⚡ Features
 
 - **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
 
-  📈 **Past Week:** 2 Commits
+  📈 **Past Day:** 2 Commits
 
-  ♻️ **Latest:** [refactor: model release policies in TypeScript](https://github.com/leoweyr/github-release-workflow/commit/4d25d5bb62dbe5f6ceb07c44e28887e28b24062a) (2 days ago)
+  ♻️ **Latest:** [refactor: migrate release publishing to TypeScript](https://github.com/leoweyr/github-release-workflow/commit/6a0dd3ca2217ccf7abd12230d5f67939c5f64f78) (7 hours ago)
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
@@ -36,7 +36,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Week:** 2 Commits
+  📈 **Past Month:** 12 Commits
 
 <!-- LATEST_ACTIVITY_END -->
 
@@ -45,7 +45,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
-  📈 **Past Week:** 10 Commits
+  📈 **Past Week:** 5 Commits
 
 - **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
@@ -55,7 +55,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
   📈 **Past Year:** 167 Commits
 
-  ✨ **Latest:** [feat(graph): enhance node description transitions](https://github.com/leoweyr/todo-requirement-blueprint-painter/commit/924946e957010d666307258bfc038c1b7129655a) (2 months ago)
+  ✨ **Latest:** [feat(graph): enhance node description transitions](https://github.com/leoweyr/todo-requirement-blueprint-painter/commit/924946e957010d666307258bfc038c1b7129655a) (3 months ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
@@ -64,13 +64,13 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **[go-event-sourcing](https://github.com/leoweyr/go-event-sourcing)** `Owned` — The event sourcing core for Go backend services, drop in causal event envelopes, optimistic-locked aggregates, and built-in idempotency.
 
-  📈 **Past Week:** 6 Commits
+  📈 **Past Week:** 4 Commits
 
-  📌 **Latest:** [build: upgrade module path to v4](https://github.com/leoweyr/go-event-sourcing/commit/71900dee08e8d8b821718200d61fa01a66b6f915) (5 days ago)
+  📌 **Latest:** [build: upgrade module path to v4](https://github.com/leoweyr/go-event-sourcing/commit/71900dee08e8d8b821718200d61fa01a66b6f915) (6 days ago)
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Week:** 2 Commits
+  📈 **Past Month:** 12 Commits
 
 - **[go-intranet-zero-trust](https://github.com/leoweyr/go-intranet-zero-trust)** `Owned` — Make every intranet call prove itself, directional HKDF keys, canonical authentication envelopes, HMAC-SHA256 request signing, and header-safe transport.
 
