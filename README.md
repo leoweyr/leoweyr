@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-09-20 21:51 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-09-21 21:52 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,7 +17,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>postgresql</code> <code>outbox-pattern</code> <code>sidecar</code> <code>event-driven</code> <code>webhook</code> <code>serverless-triggers</code> <code>cdc</code> <code>api-gateway</code> <code>zero-trust</code> <code>iam</code> <code>behavioral-tracking</code> <code>shadow-profiles</code> <code>cloud-native</code> <code>user-profiling</code> <code>crm</code> <code>json</code> <code>http-server</code> <code>http-response</code> <code>error-handling</code> <code>dto</code> <code>roundtripper</code> <code>api-contract</code> <code>library</code> <code>rest-api</code> <code>request-validation</code> <code>http-request</code> <code>golang</code> <code>http-client</code> <code>infrastructure-as-code</code> <code>cybernetics</code> <code>atlas</code> <code>docker</code> <code>shell</code> <code>devops</code> <code>gitops</code> <code>taskfile</code> <code>server-management</code> <code>ansible</code> <code>vendor</code> <code>automation</code>
+<code>cdc</code> <code>webhook</code> <code>sidecar</code> <code>serverless-triggers</code> <code>postgresql</code> <code>outbox-pattern</code> <code>event-driven</code> <code>zero-trust</code> <code>crm</code> <code>behavioral-tracking</code> <code>iam</code> <code>shadow-profiles</code> <code>cloud-native</code> <code>user-profiling</code> <code>api-gateway</code> <code>library</code> <code>dto</code> <code>http-server</code> <code>http-response</code> <code>rest-api</code> <code>roundtripper</code> <code>golang</code> <code>api-contract</code> <code>error-handling</code> <code>http-client</code> <code>http-request</code> <code>json</code> <code>request-validation</code>
 
 ## 🚀 Contribution
 
@@ -49,7 +49,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Month:** 1 Commits
+  📈 **Past Year:** 225 Commits
 
 - **[github-release-workflow](https://github.com/leoweyr/github-release-workflow)** `Owned` — Streamline your software delivery with a production-ready engineering workflow. Automated semantic versioning, changelog generation (via git-cliff), and aggregated release publishing across GitHub and major package registries.
 
@@ -70,7 +70,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Month:** 1 Commits
+  📈 **Past Year:** 225 Commits
 
 - **[go-event-sourcing](https://github.com/leoweyr/go-event-sourcing)** `Owned` — The event sourcing core for Go backend services, drop in causal event envelopes, optimistic-locked aggregates, and built-in idempotency.
 
