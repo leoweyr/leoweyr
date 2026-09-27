@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-09-26 21:51 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-09-27 21:51 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,7 +17,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>event-driven</code> <code>sidecar</code> <code>serverless-triggers</code> <code>webhook</code> <code>cdc</code> <code>outbox-pattern</code> <code>postgresql</code> <code>iam</code> <code>user-profiling</code> <code>cloud-native</code> <code>behavioral-tracking</code> <code>crm</code> <code>shadow-profiles</code> <code>zero-trust</code> <code>api-gateway</code> <code>dto</code> <code>library</code> <code>golang</code> <code>roundtripper</code> <code>json</code> <code>http-request</code> <code>api-contract</code> <code>request-validation</code> <code>http-client</code> <code>rest-api</code> <code>http-server</code> <code>http-response</code> <code>error-handling</code>
+<code>cdc</code> <code>postgresql</code> <code>sidecar</code> <code>outbox-pattern</code> <code>serverless-triggers</code> <code>webhook</code> <code>event-driven</code> <code>shadow-profiles</code> <code>iam</code> <code>zero-trust</code> <code>behavioral-tracking</code> <code>cloud-native</code> <code>crm</code> <code>api-gateway</code> <code>user-profiling</code>
 
 ## 🚀 Contribution
 
@@ -26,7 +26,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
-  📈 **Past Day:** 1 Commits
+  📈 **Past Week:** 1 Commits
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
@@ -64,9 +64,9 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Consistent HTTP request and response handling for Go servers and clients, with strict JSON decoding, DTO-based validation, and standardized API errors.
 
-  📈 **Past Month:** 1 Commits
+  📈 **Past Year:** 16 Commits
 
-  ✨ **Latest:** [feat!: allow error responses to carry arbitrary details](https://github.com/leoweyr/go-http-api-contract-io/commit/675a7a6c8ec377c8156d5f50c5f53fcea29f18e1) (4 weeks ago)
+  ✨ **Latest:** [feat!: allow error responses to carry arbitrary details](https://github.com/leoweyr/go-http-api-contract-io/commit/675a7a6c8ec377c8156d5f50c5f53fcea29f18e1) (1 month ago)
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
