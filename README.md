@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-09-29 21:51 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-09-30 21:53 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,7 +17,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>cdc</code> <code>event-driven</code> <code>serverless-triggers</code> <code>sidecar</code> <code>webhook</code> <code>postgresql</code> <code>outbox-pattern</code> <code>api-gateway</code> <code>crm</code> <code>zero-trust</code> <code>cloud-native</code> <code>iam</code> <code>behavioral-tracking</code> <code>shadow-profiles</code> <code>user-profiling</code>
+<code>sidecar</code> <code>outbox-pattern</code> <code>serverless-triggers</code> <code>webhook</code> <code>event-driven</code> <code>postgresql</code> <code>cdc</code> <code>behavioral-tracking</code> <code>iam</code> <code>user-profiling</code> <code>zero-trust</code> <code>crm</code> <code>api-gateway</code> <code>shadow-profiles</code> <code>cloud-native</code>
 
 ## 🚀 Contribution
 
