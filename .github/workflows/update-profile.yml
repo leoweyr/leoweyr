@@ -103,7 +103,8 @@ jobs:
                   "include_commits": true,
                   "include_issues": true,
                   "include_pull_requests": true,
-                  "repository_name_contains_any": "spec"
+                  "repository_name_contains_any": "spec",
+                  "repository_topic_contains_any" : "specification"
                 }
               }
             ]
