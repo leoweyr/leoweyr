@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-11-04 21:51 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-11-05 21:51 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,7 +17,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>agent-skills</code> <code>specification</code> <code>ai-agent-skill</code> <code>standards</code> <code>agent-guidance</code> <code>ai-agent</code> <code>ai-agents</code> <code>ai-agents-automation</code> <code>agent-harness</code> <code>mcp-server</code> <code>ai-gents</code> <code>agent-self-improvement</code> <code>collective-intelligence</code> <code>knowledge-reuse</code> <code>postgresql</code> <code>gitops</code> <code>automation</code> <code>serverless-triggers</code> <code>cdc</code> <code>outbox-pattern</code> <code>event-driven</code> <code>webhook</code> <code>sidecar</code> <code>atlas</code> <code>devops</code> <code>vendor</code> <code>api-gateway</code> <code>apache-apisix</code> <code>infrastructure-as-code</code> <code>server-management</code> <code>docker</code> <code>ansible</code> <code>shell</code> <code>cybernetics</code> <code>wsl</code> <code>taskfile</code> <code>bootstrap</code> <code>single-source-of-truth</code> <code>golang</code> <code>http-response</code>
+<code>specification</code> <code>standards</code> <code>ai-agents</code> <code>ai-agent-skill</code> <code>ai-agents-automation</code> <code>agent-skills</code> <code>ai-agent</code> <code>agent-guidance</code> <code>mcp-server</code> <code>agent-self-improvement</code> <code>agent-harness</code> <code>collective-intelligence</code> <code>ai-gents</code> <code>knowledge-reuse</code> <code>postgresql</code> <code>automation</code> <code>gitops</code> <code>event-driven</code> <code>webhook</code> <code>sidecar</code> <code>outbox-pattern</code> <code>serverless-triggers</code> <code>cdc</code> <code>bootstrap</code> <code>atlas</code> <code>wsl</code> <code>taskfile</code> <code>api-gateway</code> <code>server-management</code> <code>cybernetics</code> <code>vendor</code> <code>devops</code> <code>ansible</code> <code>docker</code> <code>shell</code> <code>infrastructure-as-code</code> <code>apache-apisix</code> <code>repository-management</code> <code>metadata</code> <code>reusable-workflows</code>
 
 ## 🚀 Contribution
 
@@ -32,11 +32,26 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Month:** 9 Commits
+  📈 **Past Month:** 8 Commits
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
   📈 **Past Month:** 5 Commits
+
+<!-- LATEST_ACTIVITY_END -->
+
+<!-- LATEST_ACTIVITY: 2026-10-23T08:05:42Z -->
+### 📜 Specification
+
+- **Project: B** `Private` — A living library of specifications and standards that guide AI agents toward more disciplined engineering practices.
+
+  📈 **Past Month:** 26 Commits
+
+- **[todo-requirement-blueprint-spec](https://github.com/leoweyr/todo-requirement-blueprint-spec)** `Owned` — A declarative, executable blueprint specification that eradicates over-engineering by aligning business strategy with system architecture through a strict Demand-Pull model.
+
+  📈 **Past Year:** 9 Commits
+
+  📝 **Latest:** [docs: introduce @todo-requirement-blueprint/engine](https://github.com/leoweyr/todo-requirement-blueprint-spec/commit/547f1462cb63783c3d6d5797f9555818638591bc) (7 months ago)
 
 <!-- LATEST_ACTIVITY_END -->
 
@@ -45,7 +60,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Month:** 9 Commits
+  📈 **Past Month:** 8 Commits
 
 - **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Consistent HTTP request and response handling for Go servers and clients, with strict JSON decoding, DTO-based validation, and standardized API errors.
 
@@ -66,7 +81,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: H** `Private` `Owned` — A harness-agnostic MCP server serving as a foundation for continuous agent improvement through shared specifications, transferable methodologies, and reusable tools.
 
-  📈 **Past Month:** 33 Commits
+  📈 **Past Month:** 27 Commits
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
@@ -75,10 +90,5 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 - **Project: B** `Private` `Owned` — A microkernel-based unified control plane for the human operating system.
 
   📈 **Past Year:** 13 Commits
-
-<!-- LATEST_ACTIVITY_END -->
-
-<!-- LATEST_ACTIVITY: 0001-01-01T00:00:00Z -->
-### 📜 Specification
 
 <!-- LATEST_ACTIVITY_END -->
