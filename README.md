@@ -1,7 +1,7 @@
 <div align="left">
   <sub>
     ⚙️ <b>Automatically Updated Content</b> | 
-    <i>Last synced: 2026-11-12 21:51 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
+    <i>Last synced: 2026-11-13 21:51 UTC</i> | Power by <a href="https://github.com/leoweyr/github-profile-readme-postprocessor">leoweyr/github-profile-readme-postprocessor</a>.
   </sub>
 </div>
 
@@ -17,7 +17,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 <img width="50%" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=leoweyr&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <img width="50%" align="right" src="https://github-readme-stats-silk-sigma-45.vercel.app/api/top-langs/?username=leoweyr&layout=compact&hide_border=true&hide=html,css">
 
-<code>specification</code> <code>agent-guidance</code> <code>standards</code> <code>ai-agent</code> <code>agent-skills</code> <code>ai-agents</code> <code>ai-agent-skill</code> <code>ai-agents-automation</code> <code>postgresql</code> <code>ai-gents</code> <code>agent-harness</code> <code>knowledge-reuse</code> <code>mcp-server</code> <code>agent-self-improvement</code> <code>collective-intelligence</code> <code>gitops</code> <code>automation</code> <code>outbox-pattern</code> <code>cdc</code> <code>event-driven</code> <code>webhook</code> <code>serverless-triggers</code> <code>sidecar</code> <code>infrastructure-as-code</code> <code>shell</code> <code>taskfile</code> <code>api-gateway</code> <code>atlas</code> <code>devops</code> <code>wsl</code> <code>apache-apisix</code> <code>docker</code> <code>server-management</code> <code>cybernetics</code> <code>vendor</code> <code>bootstrap</code> <code>ansible</code> <code>repository-management</code> <code>manifest-driven</code> <code>metadata-sync</code>
+<code>specification</code> <code>ai-agent-skill</code> <code>ai-agents</code> <code>standards</code> <code>agent-skills</code> <code>ai-agent</code> <code>agent-guidance</code> <code>ai-agents-automation</code> <code>postgresql</code> <code>gitops</code> <code>automation</code> <code>agent-harness</code> <code>knowledge-reuse</code> <code>ai-gents</code> <code>agent-self-improvement</code> <code>mcp-server</code> <code>collective-intelligence</code> <code>cdc</code> <code>outbox-pattern</code> <code>webhook</code> <code>sidecar</code> <code>event-driven</code> <code>serverless-triggers</code> <code>server-management</code> <code>atlas</code> <code>wsl</code> <code>docker</code> <code>cybernetics</code> <code>ansible</code> <code>api-gateway</code> <code>bootstrap</code> <code>apache-apisix</code> <code>vendor</code> <code>devops</code> <code>infrastructure-as-code</code> <code>shell</code> <code>taskfile</code> <code>package-json</code> <code>single-source-of-truth</code> <code>repository-management</code>
 
 ## 🚀 Contribution
 
@@ -28,11 +28,11 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
   📈 **Past Month:** 1 Commits
 
-  📌 **Latest:** [Initial commit](https://github.com/leoweyr/gitops-manifest-align-workflow/commit/f96c8012f1b173a2820d41dc13c6f451c12de87b) (2 weeks ago)
+  📌 **Latest:** [Initial commit](https://github.com/leoweyr/gitops-manifest-align-workflow/commit/f96c8012f1b173a2820d41dc13c6f451c12de87b) (3 weeks ago)
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Month:** 4 Commits
+  📈 **Past Month:** 3 Commits
 
 - **Project: POR** `Private` `Owned` — A blazing-fast PostgreSQL Outbox dispatcher. Listens to pg_notify, powers your Webhooks, and ensures zero-loss event delivery.
 
@@ -60,13 +60,13 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: G** `Private` — The bootstrap trigger to initialize an automated cybernetic organization.
 
-  📈 **Past Month:** 4 Commits
+  📈 **Past Month:** 3 Commits
 
 - **[go-http-api-contract-io](https://github.com/leoweyr/go-http-api-contract-io)** `Owned` — Consistent HTTP request and response handling for Go servers and clients, with strict JSON decoding, DTO-based validation, and standardized API errors.
 
-  📈 **Past Month:** 2 Commits
+  📈 **Past Year:** 18 Commits
 
-  ✨ **Latest:** [feat!: add built-in regexp and UTF-8 validation rules to the shared engine](https://github.com/leoweyr/go-http-api-contract-io/commit/a4eaf1fed92f2ce955451113ac33450d183d8026) (4 weeks ago)
+  ✨ **Latest:** [feat!: add built-in regexp and UTF-8 validation rules to the shared engine](https://github.com/leoweyr/go-http-api-contract-io/commit/a4eaf1fed92f2ce955451113ac33450d183d8026) (1 month ago)
 
 - **[go-event-sourcing](https://github.com/leoweyr/go-event-sourcing)** `Owned` — The event sourcing core for Go backend services, drop in causal event envelopes, optimistic-locked aggregates, and built-in idempotency.
 
@@ -81,7 +81,7 @@ I am focused on architecting a Company of One — an ambitious organizational pa
 
 - **Project: H** `Private` `Owned` — A harness-agnostic MCP server serving as a foundation for continuous agent improvement through shared specifications, transferable methodologies, and reusable tools.
 
-  📈 **Past Month:** 17 Commits
+  📈 **Past Month:** 12 Commits
 
 - **Project: P** `Private` `Owned` — Cloud-native API gateway IAM middleware enforcing zero-trust auth & dynamic RBAC/ABAC. It simultaneously powers CRM via real-time shadow profiling, behavior tracking, and multi-dimensional user analysis.
 
